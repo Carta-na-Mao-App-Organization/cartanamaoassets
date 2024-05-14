@@ -16,15 +16,15 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s3.png"
         },
         {
-          "descricao": "Sentido obrigatório",
+          "descricao": "Sentido obrigatório para a frente",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s4.png"
         },
         {
-          "descricao": "Sentido obrigatório",
+          "descricao": "Sentido obrigatório para a esquerda",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s5.png"
         },
         {
-          "descricao": "Sentido obrigatório",
+          "descricao": "Sentido obrigatório para a direita",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s6.png"
         },
         {
@@ -40,15 +40,15 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s9.png"
         },
         {
-          "descricao": "Obrigação de contornar a placa ou obstáculo",
+          "descricao": "Obrigação de contornar a placa ou obstáculo a direita",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s10.png"
         },
         {
-          "descricao": "Obrigação de contornar a placa ou obstáculo",
+          "descricao": "Obrigação de contornar a placa ou obstáculo a esquerda",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s11.png"
         },
         {
-          "descricao": "Rotunda",
+          "descricao": "Sentido obrigatório giratório",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s12.png"
         },
         {
@@ -60,7 +60,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s14.png"
         },
         {
-          "descricao": "Via reservada a veículos de transporte público",
+          "descricao": "Via obrigatória para autocarros",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s15.png"
         },
         {
@@ -76,7 +76,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s18.png"
         },
         {
-          "descricao": "Pista obrigatória para gado em manada",
+          "descricao": "Pista obrigatória para animais",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s19.png"
         },
         {
@@ -92,7 +92,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s22.png"
         },
         {
-          "descricao": "Obrigação de utilizar as luzes de cruzamento (médios) acesas",
+          "descricao": "Obrigação de acender as luzes",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s23.png"
         },
         {
@@ -104,7 +104,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s25.png"
         },
         {
-          "descricao": "Fim da via reservada a veículos de transporte público",
+          "descricao": "Fim da via obrigatória para autocarros",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s26.png"
         },
         {
@@ -120,7 +120,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s29.png"
         },
         {
-          "descricao": "Fim da pista obrigatória para gado em manada",
+          "descricao": "Fim da pista obrigatória para animais",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s30.png"
         },
         {
@@ -140,7 +140,7 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
         },
         {
-          "descricao": "Fim da obrigação de utilizar as luzes de cruzamento (médios) acesas",
+          "descricao": "Fim da obrigação de acender as luzes",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s35.png"
         }
       ]
