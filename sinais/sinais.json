@@ -678,6 +678,16 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s103.png"
         }
       ]
+    },
+    {
+      "id": 2,
+      "nome": "Sinais de Perigo",
+      "sinais": [
+          {
+          "descricao": "Curva à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s1.png"
+          }
+      ]
     }
   ]
   
