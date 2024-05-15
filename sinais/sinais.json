@@ -1168,5 +1168,163 @@
         "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s12.png"
       }
     ]
+  },
+  {
+    "id": 6,
+    "nome": "Cedência de Passagem",
+    "sinais": [
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s1.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s2.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s3.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s4.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s5.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s6.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s7.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s8.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s9.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s10.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s11.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s12.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s13.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s14.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s15.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s16.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s17.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s18.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s19.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s20.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s21.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s22.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s23.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s24.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s25.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s26.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s27.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s28.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s29.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s30.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s31.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s32.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s33.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s34.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s35.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s36.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s37.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s38.png"
+      }
+    ]
   }
 ]
