@@ -1084,5 +1084,35 @@
         "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s98.png"
       }
     ]
+  },
+  {
+    "id": 3,
+    "nome": "Sinais de Proibição",
+    "sinais": [
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s1.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s2.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s3.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s4.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s5.png"
+      },
+      {
+        "descricao": "Description",
+        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_ transito/s6.png"
+      }
+    ]
   }
 ]
