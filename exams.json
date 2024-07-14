@@ -1173,7 +1173,7 @@
             {
                 "id": 1,
                 "title": "Ao travar, o que é que pode acontecer se os travões actuarem de forma desigual sobre as rodas do mesmo eixo?",
-                "image_path": " https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e1.png",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e1.png",
                 "options": [
                     "As rodas bloqueiam",
                     "O veículo altera a sua trajectória",
@@ -1185,7 +1185,7 @@
             {
                 "id": 2,
                 "title": "O condutor, quando muda de direcção, tem que ceder passagem aos peões que estejam a atravessar a faixa de rodagem?",
-                "image_path": " https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e2.png",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e2.png",
                 "options": [
                     "Não",
                     "Sim",
