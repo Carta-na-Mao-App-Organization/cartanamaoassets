@@ -123,25 +123,35 @@
         "questions": [
             {
                 "id": 1,
-                "title": "Empty 4",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e4.png",
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e1.png",
                 "options": [
-                    "Empty 4",
-                    "Empty 4",
-                    "Empty 4",
-                    "Empty 4"
+                    "Desvio da fila trânsito a esquerda",
+                    "Desvio da fila de trânsito para a direita",
+                    "Desvio e aumento de filas de trânsito para a esquerda"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Qual é a função do cinto de segurança de um veículo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e2.png",
+                "options": [
+                    "Manter os ocupantes sentados na posição correcta",
+                    "Reter e proteger os ocupantes numa colisão",
+                    "Permitir que os ocupantes se desloquem sobre o assento em caso de acidente",
+                    "Apenas impedir as lesões do condutor em casa de capotagem"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": 2,
-                "title": "Empty 4",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "id": 3,
+                "title": "O que significa responsabilidade moral?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e3.png",
                 "options": [
-                    "Empty 4",
-                    "Empty 4",
-                    "Empty 4",
-                    "Empty 4"
+                    "Responder perante o Tribunal",
+                    "Responder pelos seus próprios actos",
+                    "Prestar contas perante os membros da sociedade"
                 ],
                 "correctOptionIndex": 1
             }
