@@ -85,25 +85,34 @@
         "questions": [
             {
                 "id": 1,
-                "title": "Empty 3",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e3.png",
+                "title": "Para praticar uma condução segura, o condutor deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
-                    "Empty 3",
-                    "Empty 3",
-                    "Empty 3",
-                    "Empty 3"
+                    "Avaliar constrantemente tudo que me rodeia",
+                    "Ter em atenção apenas a sinalização existente",
+                    "Preocupar-se em ser mais rápido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Nesta situação, pode ultrapassar o veículo que circula à sua frente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e2.png",
+                "options": [
+                    "Sim, utilizando os dispositivos luminosos ou sonoros",
+                    "Não, se para o fazer tiver que pisar ou transpor a linha contínua",
+                    "Sim, já que o condutor deve encostar o seu veículo para deixar-me passar"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": 1,
-                "title": "Empty 3",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "id": 3,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e3.png",
                 "options": [
-                    "Empty 3",
-                    "Empty 3",
-                    "Empty 3",
-                    "Empty 3"
+                    "Trânsito proibido ao conjunto de veículos de mercadorias, de peso total superior a 10t",
+                    "Trânsito proibido a veículos de peso por eixo múltiplo superior a 10t",
+                    "Trânsito proibido a veículos do peso por eixo superior a 10t"
                 ],
                 "correctOptionIndex": 1
             }
