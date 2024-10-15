@@ -45,27 +45,38 @@
         "questions": [
             {
                 "id": 1,
-                "title": "Empty 2",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e2.png",
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e1.png",
                 "options": [
-                    "Empty 2",
-                    "Empty 2",
-                    "Empty 2",
-                    "Empty 2"
+                    "Desvio da fila de trânsito para a direita",
+                    "Desvio da fila trânsito a esquerda",
+                    "Desvio e aumento de filas de trânsito para a esquerda"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": 1,
-                "title": "Empty 2",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "id": 2,
+                "title": "É necessário verificar com frequência o sistema de iluminação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e2.png",
                 "options": [
-                    "Empty 2",
-                    "Empty 2",
-                    "Empty 2",
-                    "Empty 2"
+                    "Sim, mudando todos os fusíveis",
+                    "Sim, para se assegurar que todas as luzes funcionaem e que os faróis estão bem regulados",
+                    "Não, porque se deve fazer unicamente numa oficina",
+                    "Não, é suficiente a revisão inspecção periódica obrigatória"
                 ],
                 "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Que deve fazer o condutor de um veículo avariado enquanto não for devidamente estacionado ou removido?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e3.png",
+                "options": [
+                    "Colocar os sinais de pré-sinalização de perigo e depois vestir o colete reflector",
+                    "Colocar um sinal de pré-sinalização de perigo 5 metros à frente do veículo",
+                    "Adoptar as medidas necessárias para que os outros se apercebam da sua presença",
+                    "Colocar um sinal de pré-sinalização de perigo 10 metros à retaguarda do veículo"
+                ],
+                "correctOptionIndex": 2
             }
         ]
     },
