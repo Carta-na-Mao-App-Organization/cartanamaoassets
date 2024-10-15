@@ -160,27 +160,39 @@
     {
         "id": 5,
         "questions": [
-            {
+           {
                 "id": 1,
-                "title": "Empty 5",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e5.png",
+                "title": "O uso do capacete para proteger a cabeça...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e1.png",
                 "options": [
-                    "Empty 5",
-                    "Empty 5",
-                    "Empty 5",
-                    "Empty 5"
+                    "É recomendável para os condutores e passageiros de motociclos, mas não é obrigatório",
+                    "É obrigatório para os condutores e passageiros de motociclos e ciclomotores",
+                    "Só é obrigatório para os condutores e passageiros de motociclos",
+                    "Não é eficaz em caso de acidente"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": 1,
-                "title": "Empty 1",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "id": 2,
+                "title": "É perigoso utilizar o telefone móvel durante a condução?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e2.png",
                 "options": [
-                    "Empty 5",
-                    "Empty 5",
-                    "Empty 5",
-                    "Empty 5"
+                    "Não, já que não afecta a condução",
+                    "Sim, porque reduz atenção necessária para conduzir com segurança",
+                    "Não, quando a conversa não durar muito tempo",
+                    "Sim, mas s'o quando se utilizar um aparelho 'mãos livres'"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Se durante a marcha detectar um furo num pnseu, deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e3.png",
+                "options": [
+                    "Prosseguir ainda que seja uma velocidade muito reduzida",
+                    "Retirar o veículo da faixa de rodagem ou, se não o poder fazer, aproximá-lo o mais possível do limite esquerdo desta",
+                    "Imobilizar o imediatamente o veículo na faixa de rodagem",
+                    "Prosseguir a marcha até à offina mais próxima"
                 ],
                 "correctOptionIndex": 1
             }
