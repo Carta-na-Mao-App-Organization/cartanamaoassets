@@ -4,27 +4,39 @@
         "questions": [
             {
                 "id": 1,
-                "title": "Empty 1",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
                 "options": [
-                    "Empty 1",
-                    "Empty 1",
-                    "Empty 1",
-                    "Empty 1"
+                    "Existência de controlo de trafégo adiante",
+                    "Controle policial por pirilampos",
+                    "Congestionamento de Tráfego",
+                    "Dever de Parar"
                 ],
                 "correctOptionIndex": 1
             },
             {
-                "id": 1,
-                "title": "Empty 1",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "id": 2,
+                "title": "Os automóveis classificam-se em:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e2.png",
                 "options": [
-                    "Empty 1",
-                    "Empty 1",
-                    "Empty 1",
-                    "Empty 1"
+                    "Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Motociclos",
+                    "Motociclos, Ciclomotores, Triclos, Quadraciclos, Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Mistos"
                 ],
-                "correctOptionIndex": 1
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 3,
+                "title": "É aconselhável viajar à noite para evitar fadiga?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e3.png",
+                "options": [
+                    "Não, porque o sono aparece mais facilmente",
+                    "Sim, se a viagem é longa",
+                    "Sim, porque há menos tráfego",
+                    "Sim, viajar durante a noite é sempre mais seguro"
+                ],
+                "correctOptionIndex": 0
             }
         ]
     },
