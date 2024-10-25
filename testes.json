@@ -46,37 +46,90 @@
             {
                 "id": 1,
                 "title": "O sinal indica:",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e1.png",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s2.png",
                 "options": [
-                    "Desvio da fila de trânsito para a direita",
-                    "Desvio da fila trânsito a esquerda",
-                    "Desvio e aumento de filas de trânsito para a esquerda"
+                    "Obrigação de utilizar correntes de neve",
+                    "Obrigação de utilizar luzes de cruzamento",
+                    "Obrigação de transistarà velocidade mínima de 30 km/h"
                 ],
-                "correctOptionIndex": 1
+                "correctOptionIndex": 2
             },
             {
                 "id": 2,
                 "title": "O sinal indica:",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e2.png",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s3.png",
                 "options": [
-                    "Sim, mudando todos os fusíveis",
-                    "Sim, para se assegurar que todas as luzes funcionaem e que os faróis estão bem regulados",
-                    "Não, porque se deve fazer unicamente numa oficina",
-                    "Não, é suficiente a revisão inspecção periódica obrigatória"
+                    "Sentido obrigatório para esquerda",
+                    "Sentido obrigatório para direita",
+                    "Obrigação de transistarà velocidade mínima de 30 km/h"
                 ],
-                "correctOptionIndex": 1
+                "correctOptionIndex": 0
             },
             {
                 "id": 3,
                 "title": "O sinal indica:",
-                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e3.png",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s4.png",
                 "options": [
-                    "Colocar os sinais de pré-sinalização de perigo e depois vestir o colete reflector",
-                    "Colocar um sinal de pré-sinalização de perigo 5 metros à frente do veículo",
-                    "Adoptar as medidas necessárias para que os outros se apercebam da sua presença",
-                    "Colocar um sinal de pré-sinalização de perigo 10 metros à retaguarda do veículo"
+                    "Sentido obrigatório para esquerda",
+                    "Sentido obrigatório para direita",
+                    "Sentido obrigatório para frente",
                 ],
                 "correctOptionIndex": 2
+            },
+            {
+                "id": 4,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s5.png",
+                "options": [
+                    "Sentido obrigatório para direita",
+                    "Sentido obrigatório para esquerda",
+                    "Sentido obrigatório para frente",
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s6.png",
+                "options": [
+                    "Sentido obrigatório para direita",
+                    "Sentido obrigatório para esquerda",
+                    "Sentido obrigatório para frente",
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s7.png",
+                "options": [
+                    "Sentido obrigatório para direita",
+                    "Rotunda",
+                    "Sentidos obrigatórios possíveis",
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s8.png",
+                "options": [
+                    "Sentidos obrigatórios possíveis",
+                    "Sentido obrigatório para direita",
+                    "Rotunda"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 8,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s9.png",
+                "options": [
+                    "Sentido obrigatório para direita",
+                    "Rotunda",
+                    "Sentidos obrigatórios possíveis",
+                ],
+                "correctOptionIndex": 0
             }
         ]
     },
