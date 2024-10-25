@@ -19,10 +19,10 @@
                 "title": "O sinal indica:",
                 "image_path": "https://github.com/Carta-na-Mao-App-Organization/cartanamaoassets/blob/main/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s1.png",
                 "options": [
-                    "Ligeiros e Pesados",
-                    "Ligeiros, Pesados e Motociclos",
-                    "Motociclos, Ciclomotores, Triclos, Quadraciclos, Ligeiros e Pesados",
-                    "Ligeiros, Pesados e Mistos"
+                    "Sentido obrigatório para esquerda",
+                    "Sentido obrigatório para direita",
+                    "Pista obrigatório para velocipedes",
+                    "Pista obrigatória para peões"
                 ],
                 "correctOptionIndex": 0
             },
