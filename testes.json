@@ -16,7 +16,7 @@
             },
             {
                 "id": 2,
-                "title": "Os automóveis classificam-se em:",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e2.png",
                 "options": [
                     "Ligeiros e Pesados",
@@ -28,7 +28,7 @@
             },
             {
                 "id": 3,
-                "title": "É aconselhável viajar à noite para evitar fadiga?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e3.png",
                 "options": [
                     "Não, porque o sono aparece mais facilmente",
@@ -45,7 +45,7 @@
         "questions": [
             {
                 "id": 1,
-                "title": "O que indica o sinal?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e1.png",
                 "options": [
                     "Desvio da fila de trânsito para a direita",
@@ -56,7 +56,7 @@
             },
             {
                 "id": 2,
-                "title": "É necessário verificar com frequência o sistema de iluminação?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e2.png",
                 "options": [
                     "Sim, mudando todos os fusíveis",
@@ -68,7 +68,7 @@
             },
             {
                 "id": 3,
-                "title": "Que deve fazer o condutor de um veículo avariado enquanto não for devidamente estacionado ou removido?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame2/e3.png",
                 "options": [
                     "Colocar os sinais de pré-sinalização de perigo e depois vestir o colete reflector",
@@ -85,7 +85,7 @@
         "questions": [
             {
                 "id": 1,
-                "title": "Para praticar uma condução segura, o condutor deve:",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e1.png",
                 "options": [
                     "Avaliar constrantemente tudo que me rodeia",
@@ -96,7 +96,7 @@
             },
             {
                 "id": 2,
-                "title": "Nesta situação, pode ultrapassar o veículo que circula à sua frente?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e2.png",
                 "options": [
                     "Sim, utilizando os dispositivos luminosos ou sonoros",
@@ -107,7 +107,7 @@
             },
             {
                 "id": 3,
-                "title": "O que indica o sinal?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame3/e3.png",
                 "options": [
                     "Trânsito proibido ao conjunto de veículos de mercadorias, de peso total superior a 10t",
@@ -123,7 +123,7 @@
         "questions": [
             {
                 "id": 1,
-                "title": "O que indica o sinal?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e1.png",
                 "options": [
                     "Desvio da fila trânsito a esquerda",
@@ -134,7 +134,7 @@
             },
             {
                 "id": 2,
-                "title": "Qual é a função do cinto de segurança de um veículo?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e2.png",
                 "options": [
                     "Manter os ocupantes sentados na posição correcta",
@@ -146,7 +146,7 @@
             },
             {
                 "id": 3,
-                "title": "O que significa responsabilidade moral?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e3.png",
                 "options": [
                     "Responder perante o Tribunal",
@@ -162,7 +162,7 @@
         "questions": [
            {
                 "id": 1,
-                "title": "O uso do capacete para proteger a cabeça...",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e1.png",
                 "options": [
                     "É recomendável para os condutores e passageiros de motociclos, mas não é obrigatório",
@@ -174,7 +174,7 @@
             },
             {
                 "id": 2,
-                "title": "É perigoso utilizar o telefone móvel durante a condução?",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e2.png",
                 "options": [
                     "Não, já que não afecta a condução",
@@ -186,7 +186,7 @@
             },
             {
                 "id": 3,
-                "title": "Se durante a marcha detectar um furo num pnseu, deve:",
+                "title": "O sinal indica:",
                 "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame8/e3.png",
                 "options": [
                     "Prosseguir ainda que seja uma velocidade muito reduzida",
