@@ -72,7 +72,7 @@
                 "options": [
                     "Sentido obrigatório para esquerda",
                     "Sentido obrigatório para direita",
-                    "Sentido obrigatório para frente",
+                    "Sentido obrigatório para frente"
                 ],
                 "correctOptionIndex": 2
             },
@@ -83,7 +83,7 @@
                 "options": [
                     "Sentido obrigatório para direita",
                     "Sentido obrigatório para esquerda",
-                    "Sentido obrigatório para frente",
+                    "Sentido obrigatório para frente"
                 ],
                 "correctOptionIndex": 1
             },
@@ -94,7 +94,7 @@
                 "options": [
                     "Sentido obrigatório para direita",
                     "Sentido obrigatório para esquerda",
-                    "Sentido obrigatório para frente",
+                    "Sentido obrigatório para frente"
                 ],
                 "correctOptionIndex": 0
             },
@@ -105,7 +105,7 @@
                 "options": [
                     "Sentido obrigatório para direita",
                     "Rotunda",
-                    "Sentidos obrigatórios possíveis",
+                    "Sentidos obrigatórios possíveis"
                 ],
                 "correctOptionIndex": 2
             },
@@ -127,7 +127,7 @@
                 "options": [
                     "Sentido obrigatório para direita",
                     "Rotunda",
-                    "Sentidos obrigatórios possíveis",
+                    "Sentidos obrigatórios possíveis"
                 ],
                 "correctOptionIndex": 0
             }
@@ -252,3 +252,4 @@
         ]
     }
 ]
+
