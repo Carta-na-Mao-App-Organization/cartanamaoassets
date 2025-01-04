@@ -1082,27 +1082,27 @@
       "nome": "Agentes Reguladores de Trânsito",
       "sinais": [
         {
-          "descricao": "Description",
+          "descricao": "Paragem de tráfego que venha de frente",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s1.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Paragem de tráfego que venha da retaguarda",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s2.png"
         },
         {
-          "descricao": "Description", 
+          "descricao": "Paragem de tráfego que venha de frente de da retaguarda", 
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s3.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "De frente",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s4.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Da esquerda",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s5.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Da direita",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s6.png"
         }
       ]
@@ -1112,205 +1112,205 @@
       "nome": "Cedência de Passagem",
       "sinais": [
         {
-          "descricao": "Description",
+          "descricao": "Cedência de passagem",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s1.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Paragem obrigatória em cruzamentos ou entrocamentos",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s2.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Via com prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s3.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Fim da via com prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s4.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Cedência de passagem nos estritamentos da faixa de rodagem",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s5.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Prioridade nos estreitamentos da faixa de rodagem",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s6.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Aproximação de rotunda",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s7.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Cruzamento com via sem prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s8.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Entrocamento com via sem prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s9.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Entrocamento com via sem prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s10.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Entrocamento com via sem prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s11.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Entrocamento com via sem prioridade",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s12.png"
         }
       ]
     },
     {
       "id": 6,
-      "nome": "Cedência de Passagem",
+      "nome": "Sinais de Informação",
       "sinais": [
         {
-          "descricao": "Description",
+          "descricao": "Estacionamento autorizado",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s1.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Estacionamento autorizado",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s2.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Hospital",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s3.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Trânsito de sentido único",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s4.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Via pública sem saída",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s5.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Correntes de neve recomendadas",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s6.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Velocidade recomendada",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s7.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Passagem para peões",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s8.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Passagem desnivelada para peões",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s9.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Passagem desnivelada para peões",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s10.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Hospital com urgência médica",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s11.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Postos de socorros",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s12.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Oficina",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s13.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Telefone",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s14.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Posto de abastecimento de combustível",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s15.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Posto de abastecimento de combustível com GPL",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s16.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Parque de campismo",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s17.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Parque para reboques de campismo",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s18.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Parque misto para campismo e reboques de campismo",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s19.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Telefone de emergência",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s20.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Pousada ou estalagem",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s21.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Albergue",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s22.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Pousada de juventude",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s23.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Turismo rural",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s24.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Hotel",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s25.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Restaurante",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s26.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Café ou bar",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s27.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Paragem de veículos de transporte colectivos de passageiros",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s28.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Paragem de veículos de transporte colectivo de passageiros que transitem sobre carris",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s29.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Paragem de veículos afectos ao transporte de crianças",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s30.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Aeroporto",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s32.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Postos de Informações",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s33.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Estação de radiofusão",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s34.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Auto-estrada",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s35.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Via reservada a automóveis e motociclos",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s36.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Escapatória",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s37.png"
         },
         {
-          "descricao": "Description",
+          "descricao": "Inversão de marcha",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s38.png"
         }
       ]
