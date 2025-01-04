@@ -1,1326 +1,1319 @@
 [
-  {
-    "id": 1,
-    "nome": "Sinais de Obrigação",
-    "sinais": [
-      {
-        "descricao": "Sentido obrigatório para direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s1.png"
-      },
-      {
-        "descricao": "Obrigação de transitar à velocidade mínima de 30 km/h",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s2.png"
-      },
-      {
-        "descricao": "Sentido obrigatório para esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s3.png"
-      },
-      {
-        "descricao": "Sentido obrigatório para a frente",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s4.png"
-      },
-      {
-        "descricao": "Sentido obrigatório para a esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s5.png"
-      },
-      {
-        "descricao": "Sentido obrigatório para a direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s6.png"
-      },
-      {
-        "descricao": "Sentidos obrigatórios possíveis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s7.png"
-      },
-      {
-        "descricao": "Sentidos obrigatórios possíveis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s8.png"
-      },
-      {
-        "descricao": "Sentidos obrigatórios possíveis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s9.png"
-      },
-      {
-        "descricao": "Obrigação de contornar a placa ou obstáculo a direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s10.png"
-      },
-      {
-        "descricao": "Obrigação de contornar a placa ou obstáculo a esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s11.png"
-      },
-      {
-        "descricao": "Sentido obrigatório giratório",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s12.png"
-      },
-      {
-        "descricao": "Via obrigatória para automóveis de mercadorias",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s13.png"
-      },
-      {
-        "descricao": "Via obrigatória para automóveis pesados",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s14.png"
-      },
-      {
-        "descricao": "Via obrigatória para autocarros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s15.png"
-      },
-      {
-        "descricao": "Pista obrigatória para velocípedes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s16.png"
-      },
-      {
-        "descricao": "Pista obrigatória para peões",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s17.png"
-      },
-      {
-        "descricao": "Pista obrigatória para caveleiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s18.png"
-      },
-      {
-        "descricao": "Pista obrigatória para animais",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s19.png"
-      },
-      {
-        "descricao": "Pista obrigatória para peões e velocídes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s20.png"
-      },
-      {
-        "descricao": "Pista obrigatória para peões e velocídes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s21.png"
-      },
-      {
-        "descricao": "Obrigação de utilizar correntes de neve",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s22.png"
-      },
-      {
-        "descricao": "Obrigação de acender as luzes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s23.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para automóveis de mercadorias",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s24.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para automóveis pesados",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s25.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para autocarros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s26.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para velocípedes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s27.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para peões",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s28.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para cavaleiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s29.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para animais",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s30.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para peões e velocípedes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s31.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para peões e velocípdes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s32.png"
-      },
-      {
-        "descricao": "Fim da obrigação de transitar à velocidade mínima de ... km/h",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s33.png"
-      },
-      {
-        "descricao": "Fim da obrigação de utilizar correntes de neve",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
-      },
-      {
-        "descricao": "Fim da obrigação de acender as luzes",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s35.png"
-      },
-      {
-        "descricao": "Obrigação de circular a velocidade mínima de ... km/h",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s36.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos de peso total de ...t",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s37.png"
-      },
-      {
-        "descricao": "Pista obrigatória para peões",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s38.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos que transportam substâncias perigosas",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s39.png"
-      },
-      {
-        "descricao": "Pista obrigatória para cavaleiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s40.png"
-      },
-      {
-        "descricao": "Pista obrigatória para veículos de tracção manual",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s41.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos de mercadorias de peso total não superior a ...t",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s42.png"
-      },
-      {
-        "descricao": "Fim da via obritória para veículos de mercadorias",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s43.png"
-      },
-      {
-        "descricao": "Via obrigatória para tractores agrícolas",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s44.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para tractores agrícolas",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s45.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos de mercadorias",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s46.png"
-      },
-      {
-        "descricao": "Via obrigatória para automóveis pesados",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s47.png"
-      },
-      {
-        "descricao": "Via obrigatória para automóveis ligeiros de passageiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s48.png"
-      },
-      {
-        "descricao": "Fim de via obrigatória para automóveis ligeiros de passageiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s49.png"
-      },
-      {
-        "descricao": "Via obrigatória para táxis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s50.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para táxis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s51.png"
-      },
-      {
-        "descricao": "Pista obrigatória para veículos de tracção manual",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s52.png"
-      },
-      {
-        "descricao": "Fim da pista obrigatória para veículos de tracção manual",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s53.png"
-      },
-      {
-        "descricao": "Via obrigatória para autocarros e autocarros médios",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s54.png"
-      },
-      {
-        "descricao": "Fim via obrigatória para autocarros e autocarros médios",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s55.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos simples",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s56.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para veículos simples",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s57.png"
-      },
-      {
-        "descricao": "Via obrigatória para veículos de dimensões anormais",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s58.png"
-      },
-      {
-        "descricao": "Fim de via obrigatória para veículos de dimensões anormais",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s59.png"
-      },
-      {
-        "descricao": "Via obrigatória para autocarros médios",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s60.png"
-      },
-      {
-        "descricao": "Fim da via obrigatória para autocarros médios",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s61.png"
-      },
-      {
-        "descricao": "Via obrigatória para mini-autocarros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s62.png"
-      },
-      {
-        "descricao": "Via obrigatória para táxis",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s63.png"
-      },
-      {
-        "descricao": "Via para portagem",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s64.png"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "nome": "Sinais de Perigo",
-    "sinais": [
-      {
-        "descricao": "Curva à direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s1.png"
-      },
-      {
-        "descricao": "Curva à esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s2.png"
-      },
-      {
-        "descricao": "Curva à direita e contracurva",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s3.png"
-      },
-      {
-        "descricao": "Curva à esquerda e contracurva",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s4.png"
-      },
-      {
-        "descricao": "Lomba",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s5.png"
-      },
-      {
-        "descricao": "Depressão",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s6.png"
-      },
-      {
-        "descricao": "Lomba ou depressão",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s7.png"
-      },
-      {
-        "descricao": "Descida perigosa",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s8.png"
-      },
-      {
-        "descricao": "Subida de inclinação acentuada",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s9.png"
-      },
-      {
-        "descricao": "Passagem estreita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s10.png"
-      },
-      {
-        "descricao": "Passagem estreita a esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s11.png"
-      },
-      {
-        "descricao": "Passagem estreita a direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s12.png"
-      },
-      {
-        "descricao": "Pavimento escorregadio",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s13.png"
-      },
-      {
-        "descricao": "Projecção de gravilha",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s14.png"
-      },
-      {
-        "descricao": "Berma baixa a direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s15.png"
-      },
-      {
-        "descricao": "Berma baixa a esquerda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s16.png"
-      },
-      {
-        "descricao": "Saída num cais ou precipício",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s17.png"
-      },
-      {
-        "descricao": "Queda de pedras a direita",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s18.png"
-      },
-      {
-        "descricao": "Ponte móvel",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s19.png"
-      },
-      {
-        "descricao": "Neve ou gelo",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s20.png"
-      },
-      {
-        "descricao": "Vento lateral",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s21.png"
-      },
-      {
-        "descricao": "Visibilidade reduzida",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s22.png"
-      },
-      {
-        "descricao": "Crianças",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s23.png"
-      },
-      {
-        "descricao": "Idosos",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s24.png"
-      },
-      {
-        "descricao": "Passagem de peões",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s25.png"
-      },
-      {
-        "descricao": "Travessia de peões",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s26.png"
-      },
-      {
-        "descricao": "Saída de cicilistas",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s27.png"
-      },
-      {
-        "descricao": "Cavaleiros",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s28.png"
-      },
-      {
-        "descricao": "Animais",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s29.png"
-      },
-      {
-        "descricao": "Animais selvagens",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s30.png"
-      },
-      {
-        "descricao": "Túnel",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s31.png"
-      },
-      {
-        "descricao": "Pista de aviação",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s32.png"
-      },
-      {
-        "descricao": "Sinalização luminosa",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s33.png"
-      },
-      {
-        "descricao": "Trabalhos na via",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s34.png"
-      },
-      {
-        "descricao": "Cruzamento ou entrocamento",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s35.png"
-      },
-      {
-        "descricao": "Trânsito nos dois sentidos",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s36.png"
-      },
-      {
-        "descricao": "Passagem de nível com guarda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s37.png"
-      },
-      {
-        "descricao": "Passagem de nível sem guarda",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s38.png"
-      },
-      {
-        "descricao": "Intersecção com via onde circulam veículos sobre carris",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s39.png"
-      },
-      {
-        "descricao": "Outros perigos",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s40.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s41.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s42.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s43.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s44.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s45.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s46.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s47.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s48.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s49.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s50.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s51.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s52.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s53.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s54.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s55.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s56.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s57.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s58.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s59.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s60.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s61.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s62.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s63.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s64.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s65.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s66.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s67.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s68.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s69.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s70.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s71.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s72.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s73.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s74.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s75.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s76.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s77.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s78.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s79.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s80.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s81.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s82.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s83.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s84.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s85.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s86.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s87.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s88.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s89.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s90.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s91.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s92.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s93.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s94.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s95.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s96.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s97.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s98.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s99.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s100.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s101.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s102.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s103.png"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "nome": "Sinais de Proibição",
-    "sinais": [
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s1.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s2.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s3.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s4.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s5.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s6.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s7.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s8.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s9.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s10.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s11.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s12.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s13.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s14.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s15.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s16.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s17.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s18.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s19.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s20.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s21.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s22.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s23.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s24.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s25.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s26.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s27.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s28.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s29.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s30.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s31.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s31.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s32.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s33.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s34.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s35.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s36.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s37.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s38.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s39.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s40.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s41.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s42.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s43.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s44.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s45.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s46.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s47.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s48.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s49.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s50.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s51.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s52.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s53.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s54.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s55.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s56.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s57.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s58.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s59.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s60.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s61.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s62.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s63.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s64.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s65.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s66.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s67.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s68.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s69.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s50.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s70.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s71.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s72.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s73.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s74.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s75.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s76.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s77.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s78.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s79.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s80.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s81.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s82.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s83.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s84.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s85.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s86.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s87.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s88.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s89.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s90.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s91.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s92.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s93.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s94.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s95.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s96.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s97.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s98.png"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "nome": "Agentes Reguladores de Trânsito",
-    "sinais": [
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s1.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s2.png"
-      },
-      {
-        "descricao": "Description", 
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s3.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s4.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s5.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s6.png"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "nome": "Cedência de Passagem",
-    "sinais": [
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s1.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s2.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s3.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s4.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s5.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s6.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s7.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s8.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s9.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s10.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s11.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s12.png"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "nome": "Cedência de Passagem",
-    "sinais": [
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s1.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s2.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s3.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s4.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s5.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s6.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s7.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s8.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s9.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s10.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s11.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s12.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s13.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s14.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s15.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s16.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s17.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s18.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s19.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s20.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s21.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s22.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s23.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s24.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s25.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s26.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s27.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s28.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s29.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s30.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s32.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s33.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s34.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s35.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s36.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s37.png"
-      },
-      {
-        "descricao": "Description",
-        "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s38.png"
-      }
-    ]
-  }
-]
+    {
+      "id": 1,
+      "nome": "Sinais de Obrigação",
+      "sinais": [
+        {
+          "descricao": "Sentido obrigatório para direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s1.png"
+        },
+        {
+          "descricao": "Obrigação de transitar à velocidade mínima de 30 km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s2.png"
+        },
+        {
+          "descricao": "Sentido obrigatório para esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s3.png"
+        },
+        {
+          "descricao": "Sentido obrigatório para a frente",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s4.png"
+        },
+        {
+          "descricao": "Sentido obrigatório para a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s5.png"
+        },
+        {
+          "descricao": "Sentido obrigatório para a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s6.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s7.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s8.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s9.png"
+        },
+        {
+          "descricao": "Obrigação de contornar a placa ou obstáculo a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s10.png"
+        },
+        {
+          "descricao": "Obrigação de contornar a placa ou obstáculo a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s11.png"
+        },
+        {
+          "descricao": "Sentido obrigatório giratório",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s12.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s13.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s14.png"
+        },
+        {
+          "descricao": "Via obrigatória para autocarros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s15.png"
+        },
+        {
+          "descricao": "Pista obrigatória para velocípedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s16.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s17.png"
+        },
+        {
+          "descricao": "Pista obrigatória para caveleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s18.png"
+        },
+        {
+          "descricao": "Pista obrigatória para animais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s19.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões e velocídes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s20.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões e velocídes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s21.png"
+        },
+        {
+          "descricao": "Obrigação de utilizar correntes de neve",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s22.png"
+        },
+        {
+          "descricao": "Obrigação de acender as luzes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s23.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para automóveis de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s24.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s25.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para autocarros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s26.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para velocípedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s27.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s28.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s29.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para animais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s30.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões e velocípedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s31.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões e velocípdes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s32.png"
+        },
+        {
+          "descricao": "Fim da obrigação de transitar à velocidade mínima de ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s33.png"
+        },
+        {
+          "descricao": "Fim da obrigação de utilizar correntes de neve",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
+        },
+        {
+          "descricao": "Fim da obrigação de acender as luzes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s35.png"
+        },
+        {
+          "descricao": "Obrigação de circular a velocidade mínima de ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s36.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos de peso total de ...t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s37.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s38.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos que transportam substâncias perigosas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s39.png"
+        },
+        {
+          "descricao": "Pista obrigatória para cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s40.png"
+        },
+        {
+          "descricao": "Pista obrigatória para veículos de tracção manual",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s41.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos de mercadorias de peso total não superior a ...t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s42.png"
+        },
+        {
+          "descricao": "Fim da via obritória para veículos de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s43.png"
+        },
+        {
+          "descricao": "Via obrigatória para tractores agrícolas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s44.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para tractores agrícolas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s45.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s46.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s47.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis ligeiros de passageiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s48.png"
+        },
+        {
+          "descricao": "Fim de via obrigatória para automóveis ligeiros de passageiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s49.png"
+        },
+        {
+          "descricao": "Via obrigatória para táxis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s50.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para táxis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s51.png"
+        },
+        {
+          "descricao": "Pista obrigatória para veículos de tracção manual",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s52.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para veículos de tracção manual",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s53.png"
+        },
+        {
+          "descricao": "Via obrigatória para autocarros e autocarros médios",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s54.png"
+        },
+        {
+          "descricao": "Fim via obrigatória para autocarros e autocarros médios",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s55.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s56.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para veículos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s57.png"
+        },
+        {
+          "descricao": "Via obrigatória para veículos de dimensões anormais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s58.png"
+        },
+        {
+          "descricao": "Fim de via obrigatória para veículos de dimensões anormais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s59.png"
+        },
+        {
+          "descricao": "Via obrigatória para autocarros médios",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s60.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para autocarros médios",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s61.png"
+        },
+        {
+          "descricao": "Via obrigatória para mini-autocarros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s62.png"
+        },
+        {
+          "descricao": "Via obrigatória para táxis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s63.png"
+        },
+        {
+          "descricao": "Via para portagem",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s64.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Sinais de Perigo",
+      "sinais": [
+        {
+          "descricao": "Curva à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s1.png"
+        },
+        {
+          "descricao": "Curva à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s2.png"
+        },
+        {
+          "descricao": "Curva à direita e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s3.png"
+        },
+        {
+          "descricao": "Curva à esquerda e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s4.png"
+        },
+        {
+          "descricao": "Lomba",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s5.png"
+        },
+        {
+          "descricao": "Depressão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s6.png"
+        },
+        {
+          "descricao": "Lomba ou depressão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s7.png"
+        },
+        {
+          "descricao": "Descida perigosa",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s8.png"
+        },
+        {
+          "descricao": "Subida de inclinação acentuada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s9.png"
+        },
+        {
+          "descricao": "Passagem estreita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s10.png"
+        },
+        {
+          "descricao": "Passagem estreita a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s11.png"
+        },
+        {
+          "descricao": "Passagem estreita a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s12.png"
+        },
+        {
+          "descricao": "Pavimento escorregadio",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s13.png"
+        },
+        {
+          "descricao": "Projecção de gravilha",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s14.png"
+        },
+        {
+          "descricao": "Berma baixa a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s15.png"
+        },
+        {
+          "descricao": "Berma baixa a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s16.png"
+        },
+        {
+          "descricao": "Saída num cais ou precipício",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s17.png"
+        },
+        {
+          "descricao": "Queda de pedras a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s18.png"
+        },
+        {
+          "descricao": "Ponte móvel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s19.png"
+        },
+        {
+          "descricao": "Neve ou gelo",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s20.png"
+        },
+        {
+          "descricao": "Vento lateral",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s21.png"
+        },
+        {
+          "descricao": "Visibilidade reduzida",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s22.png"
+        },
+        {
+          "descricao": "Crianças",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s23.png"
+        },
+        {
+          "descricao": "Idosos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s24.png"
+        },
+        {
+          "descricao": "Passagem de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s25.png"
+        },
+        {
+          "descricao": "Travessia de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s26.png"
+        },
+        {
+          "descricao": "Saída de cicilistas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s27.png"
+        },
+        {
+          "descricao": "Cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s28.png"
+        },
+        {
+          "descricao": "Animais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s29.png"
+        },
+        {
+          "descricao": "Animais selvagens",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s30.png"
+        },
+        {
+          "descricao": "Túnel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s31.png"
+        },
+        {
+          "descricao": "Pista de aviação",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s32.png"
+        },
+        {
+          "descricao": "Sinalização luminosa",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s33.png"
+        },
+        {
+          "descricao": "Trabalhos na via",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s34.png"
+        },
+        {
+          "descricao": "Cruzamento ou entrocamento",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s35.png"
+        },
+        {
+          "descricao": "Trânsito nos dois sentidos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s36.png"
+        },
+        {
+          "descricao": "Passagem de nível com guarda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s37.png"
+        },
+        {
+          "descricao": "Passagem de nível sem guarda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s38.png"
+        },
+        {
+          "descricao": "Intersecção com via onde circulam veículos sobre carris",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s39.png"
+        },
+        {
+          "descricao": "Outros perigos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s40.png"
+        },
+        {
+          "descricao": "Paragem obrigatória no cruzamento ou entrocamento",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s41.png"
+        },
+        {
+          "descricao": "Estrada com prioridade",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s42.png"
+        },
+        {
+          "descricao": "Passagem de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s43.png"
+        },
+        {
+          "descricao": "Travessia de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s44.png"
+        },
+        {
+          "descricao": "Crianças",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s45.png"
+        },
+        {
+          "descricao": "Ciclistas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s46.png"
+        },
+        {
+          "descricao": "Animais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s47.png"
+        },
+        {
+          "descricao": "Início de estrada alcatroada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s48.png"
+        },
+        {
+          "descricao": "Fim de Estrada alcatroada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s49.png"
+        },
+        {
+          "descricao": "Vento Lateral",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s50.png"
+        },
+        {
+          "descricao": "Túnel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s51.png"
+        },
+        {
+          "descricao": "Subida de inclinação acentuada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s52.png"
+        },
+        {
+          "descricao": "Descida de Inclinação Acentuada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s53.png"
+        },
+        {
+          "descricao": "Ponte Estreita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s54.png"
+        },
+        {
+          "descricao": "Ponte Móvel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s55.png"
+        },
+        {
+          "descricao": "Cruzamento",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s56.png"
+        },
+        {
+          "descricao": "Cruzamento com estrada sem prioridade",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s57.png"
+        },
+        {
+          "descricao": "Cruzamento com estrada com prioridade",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s58.png"
+        },
+        {
+          "descricao": "Entrocamento com estrada com prioridade em T",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s59.png"
+        },
+        {
+          "descricao": "Entrocamento oblíquo à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s60.png"
+        },
+        {
+          "descricao": "Entrocamento oblíquo à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s61.png"
+        },
+        {
+          "descricao": "Entrocamento lateral à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s62.png"
+        },
+        {
+          "descricao": "Entrocamento lateral à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s63.png"
+        },
+        {
+          "descricao": "Entrocamento sucessivos contrários à direita e a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s64.png"
+        },
+        {
+          "descricao": "Entrocamento sucessivos contrários à esquerda e à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s65.png"
+        },
+        {
+          "descricao": "Entrocamento agudo para a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s66.png"
+        },
+        {
+          "descricao": "Entrocamento agudo para a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s67.png"
+        },
+        {
+          "descricao": "Entrocamento agudo da direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s68.png"
+        },
+        {
+          "descricao": "Entrocamento agudo da esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s69.png"
+        },
+        {
+          "descricao": "Entrocamento em forma de Y ou Bifurcação",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s70.png"
+        },
+        {
+          "descricao": "Início de via dupla à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s71.png"
+        },
+        {
+          "descricao": "Início de via dupla à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s72.png"
+        },
+        {
+          "descricao": "Fim de via dupla à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s73.png"
+        },
+        {
+          "descricao": "Fim de via dupla à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s74.png"
+        },
+        {
+          "descricao": "Intersecção com sentido giratório",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s75.png"
+        },
+        {
+          "descricao": "Curva à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s76.png"
+        },
+        {
+          "descricao": "Curva à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s77.png"
+        },
+        {
+          "descricao": "Curva acentuada à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s78.png"
+        },
+        {
+          "descricao": "Curva acentuada à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s79.png"
+        },
+        {
+          "descricao": "Trânsito nos dois sentidos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s80.png"
+        },
+        {
+          "descricao": "Curva fechada à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s81.png"
+        },
+        {
+          "descricao": "Curva fechada à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s82.png"
+        },
+        {
+          "descricao": "Curva à direita e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s83.png"
+        },
+        {
+          "descricao": "Curva à esquerda e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s84.png"
+        },
+        {
+          "descricao": "Curvas sucessivas primeira à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s85.png"
+        },
+        {
+          "descricao": "Curvas sucessivas primeira à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s86.png"
+        },
+        {
+          "descricao": "Fim da fila à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s87.png"
+        },
+        {
+          "descricao": "Fim da fila à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s88.png"
+        },
+        {
+          "descricao": "Depressão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s89.png"
+        },
+        {
+          "descricao": "Tractor agrícolo",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s90.png"
+        },
+        {
+          "descricao": "Visibilidade reduzida",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s91.png"
+        },
+        {
+          "descricao": "Congestionamento de tráfego",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s92.png"
+        },
+        {
+          "descricao": "Cruzamento com trânsito nos dois sentidos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s93.png"
+        },
+        {
+          "descricao": "Restrição de altura",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s94.png"
+        },
+        {
+          "descricao": "Um veículo de cada vez",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s95.png"
+        },
+        {
+          "descricao": "Cancela",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s96.png"
+        },
+        {
+          "descricao": "Passagem de nível",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s97.png"
+        },
+        {
+          "descricao": "Cancela motorizada à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s98.png"
+        },
+        {
+          "descricao": "Cancela motorizada à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s99.png"
+        },
+        {
+          "descricao": "Cancela motorizada ao centro",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s100.png"
+        },
+        {
+          "descricao": "Animais selvagens",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s101.png"
+        },
+        {
+          "descricao": "Projecção de gravilhas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s102.png"
+        },
+        {
+          "descricao": "Veículos de tracção animal",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s103.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Sinais de Proibição",
+      "sinais": [
+        {
+          "descricao": "Sentido proibído",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s1.png"
+        },
+        {
+          "descricao": "Trânsito proibído",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s2.png"
+        },
+        {
+          "descricao": "Trânsito proibído a automóveis e motociclos com carro",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s3.png"
+        },
+        {
+          "descricao": "Trânstio proibido a automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s4.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s5.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis de mercadorias de peso total superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s6.png"
+        },
+        {
+          "descricao": "Trânsito proibido a motociclos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s7.png"
+        },
+        {
+          "descricao": "Trânsito proibido a ciclomotores",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s8.png"
+        },
+        {
+          "descricao": "Trânsito proibido a velocípdes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s9.png"
+        },
+        {
+          "descricao": "Transito proibido a veículos agrícolas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s10.png"
+        },
+        {
+          "descricao": "Trânsito proibido a verículos de tração animal",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s11.png"
+        },
+        {
+          "descricao": "Trânsito proibido a carros de mão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s12.png"
+        },
+        {
+          "descricao": "Trânsito proibido a peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s13.png"
+        },
+        {
+          "descricao": "Trânsito proibido a cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s14.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos com reboque",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s15.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos com reboque de dois ou mais eixos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s16.png"
+        },
+        {
+          "descricao": "Trânsito proibido a verículos transportando mercadorias perigosas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s17.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos transportando produtos facilmente inflamáveis ou explosivos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s18.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos transportando produtos susceptíveis de poluiírem as águas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s19.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis e motociclos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s20.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s21.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis, a motociclos e a veículos de tracção animal",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s22.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis de mercadorias e a veículos de tracção animal",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s23.png"
+        },
+        {
+          "descricao": "Trânsito proibido a peões, a animais e a veículos que não sejam automóveis ou motociclos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s24.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de duas rodas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s25.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de pesos por eixo ou superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s26.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de peso total superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s27.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos ou conjunto de veículos de comprimento superior a ... m",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s28.png"
+        },
+        {
+          "descricao": "Trânstio proibido a veículos de largura superior a ... m",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s29.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de altura superior a ... m",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s30.png"
+        },
+        {
+          "descricao": "Proibição de transitar a menos de ... m do veículo precedente",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s31.png"
+        },
+        {
+          "descricao": "Proibição de virar à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s32.png"
+        },
+        {
+          "descricao": "Proibição de virar à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s33.png"
+        },
+        {
+          "descricao": "Proibição de inversão do sentido de marcha",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s34.png"
+        },
+        {
+          "descricao": "Proibição de exceder a velocidade máxima de ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s35.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s36.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s37.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar para motociclos e ciclomotores",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s38.png"
+        },
+        {
+          "descricao": "Estacionamento proibído",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s39.png"
+        },
+        {
+          "descricao": "Paragem e estacionamento proibido",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s40.png"
+        },
+        {
+          "descricao": "Proibição de sinais sonoros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s41.png"
+        },
+        {
+          "descricao": "Paragem obrigatória na alfândega",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s42.png"
+        },
+        {
+          "descricao": "Outras paragens obrigatórias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s43.png"
+        },
+        {
+          "descricao": "Fim de todas as proibições impostas anteriomente por sinalização a veículos em marcha",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s44.png"
+        },
+        {
+          "descricao": "Fim da limitação de velocidade",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s45.png"
+        },
+        {
+          "descricao": "Fim da proibição de ultrapassar",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s46.png"
+        },
+        {
+          "descricao": "Fim da proibição de ultrapassar para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s47.png"
+        },
+        {
+          "descricao": "Fim da proibição de ultrapassar para motociclos e ciclomotores",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s48.png"
+        },
+        {
+          "descricao": "Fim de paragem ou estacionamento proibidos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s49.png"
+        },
+        {
+          "descricao": "Fim da proibição de sinais sonoros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s50.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s51.png"
+        },
+        {
+          "descricao": "Trânsito proibido a todos os veículos automóveis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s52.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos automóveis e motocliclos com carro",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s53.png"
+        },
+        {
+          "descricao": "Trânsito proibido a motociclos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s54.png"
+        },
+        {
+          "descricao": "Trânsito proibido a automóveis de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s55.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s56.png"
+        },
+        {
+          "descricao": "Fim de proibição de ultrapassar",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s57.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar a automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s58.png"
+        },
+        {
+          "descricao": "Fim da proibição de ultrapassar a automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s59.png"
+        },
+        {
+          "descricao": "Proibição de exceder a velocidade de  ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s60.png"
+        },
+        {
+          "descricao": "Fim da proibição de exceder a velocidade de  ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s61.png"
+        },
+        {
+          "descricao": "Proibição de ultrapassar para motociclos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s62.png"
+        },
+        {
+          "descricao": "Fim da proibição de ultrapassar para motociclos simples",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s63.png"
+        },
+        {
+          "descricao": "Trânsito proibido a velocipedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s64.png"
+        },
+        {
+          "descricao": "Trânsito proibido a peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s65.png"
+        },
+        {
+          "descricao": "Trânsito proibido a velocipedes e peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s66.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de peso por eixo superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s67.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de peso total superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s68.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de largura superior a ... m",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s69.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de alturar superior a ... m",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s70.png"
+        },
+        {
+          "descricao": "Proibição de sinais sonoros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s71.png"
+        },
+        {
+          "descricao": "Proibição de voltar a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s72.png"
+        },
+        {
+          "descricao": "Proibição de inversão do sentido de marcha",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s73.png"
+        },
+        {
+          "descricao": "Proibição de mudar de direcção a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s74.png"
+        },
+        {
+          "descricao": "Trânsito proibido a tractores agrícolos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s75.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de mercadorias de peso total superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s76.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de tracção animal",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s77.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de tracção manual",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s78.png"
+        },
+        {
+          "descricao": "Trânsito proibido a táxis",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s79.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos que transportam substâncias perigosas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s80.png"
+        },
+        {
+          "descricao": "Trânsito proibido ao conjunto de veículos de mercadorias de peso total superior a ... t",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s81.png"
+        },
+        {
+          "descricao": "Estacionamento proibído",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s82.png"
+        },
+        {
+          "descricao": "Paragem e estacionamento proibido",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s83.png"
+        },
+        {
+          "descricao": "Paragem proibida",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s84.png"
+        },
+        {
+          "descricao": "Estacionamento proibido",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s85.png"
+        },
+        {
+          "descricao": "Estacionamento condicionado",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s86.png"
+        },
+        {
+          "descricao": "Estacionamento condicionado",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s87.png"
+        },
+        {
+          "descricao": "Estacionamento limitado",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s88.png"
+        },
+        {
+          "descricao": "Estacionamento limitado",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s89.png"
+        },
+        {
+          "descricao": "Estacionamento limitado",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s90.png"
+        },
+        {
+          "descricao": "Fim de paragem e estacionamento proibido",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s91.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos de distribuição",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s92.png"
+        },
+        {
+          "descricao": "Trânsito proibido a autocarros de excursão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s93.png"
+        },
+        {
+          "descricao": "Trânsito proibido a mini-autocarros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s94.png"
+        },
+        {
+          "descricao": "Trânsito proibido a cavalos e cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s95.png"
+        },
+        {
+          "descricao": "Proibição a vendedores",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s96.png"
+        },
+        {
+          "descricao": "Proibição de pedir boleia",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s97.png"
+        },
+        {
+          "descricao": "Trânsito proibido a veículos não autorizados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_proibição/s98.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Agentes Reguladores de Trânsito",
+      "sinais": [
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s1.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s2.png"
+        },
+        {
+          "descricao": "Description", 
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s3.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s4.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s5.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_dos_agentes_reguladores_de_transito/s6.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Cedência de Passagem",
+      "sinais": [
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s1.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s2.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s3.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s4.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s5.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s6.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s7.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s8.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s9.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s10.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s11.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_cedencia_de_passagem/s12.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Cedência de Passagem",
+      "sinais": [
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s1.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s2.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s3.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s4.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s5.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s6.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s7.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s8.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s9.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s10.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s11.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s12.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s13.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s14.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s15.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s16.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s17.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s18.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s19.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s20.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s21.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s22.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s23.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s24.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s25.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s26.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s27.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s28.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s29.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s30.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s32.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s33.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s34.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s35.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s36.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s37.png"
+        },
+        {
+          "descricao": "Description",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_informação/s38.png"
+        }
+      ]
+    }
+  ]
+  
