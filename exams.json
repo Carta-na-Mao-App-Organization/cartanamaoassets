@@ -4390,5 +4390,296 @@
                 "correctOptionIndex": 3
             }
         ]
+    },
+    {
+        "id": 16,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e1.png",
+                "options": [
+                    "A presença de ponte móvel",
+                    "A presença de cancela motorizada ao centro",
+                    "A presença de entrocmaento oblíquo à esquerda"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e2.png",
+                "options": [
+                    "Sentido proíbido",
+                    "Trânsito proíbdo",
+                    "Trânsito proibído a automóveis ligeiros de passageiros"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Considera-se morte por acidente de viação:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e3.png",
+                "options": [
+                    "Só aquela que ocorre no local do sinistro",
+                    "Aquela que ocorre até 30 dias após o registro do sinistro",
+                    "Só àquela que ocorre da unidade sanitária"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "Numa auto-estrada, pode-se inverter o sentido de marcha?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e4.png",
+                "options": [
+                    "Sempre que possível",
+                    "Sim, se a manobra for feita lentamente",
+                    "Nunca"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e5.png",
+                "options": [
+                    "Pré-advertência da direcção de saída",
+                    "Advertência da direcção de saída",
+                    "Direcção de saída"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "Para conduzir com seguranca, é necessário colocar corretamente as mãos no volante ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e6.png",
+                "options": [
+                    "Apenas quando se conduz nas auto-estradas",
+                    "Sim, sempre",
+                    "Depende da intensidade do trânsito",
+                    "Não, só é necessário regular o enconsto de cabeça"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Entende-se por visibilidade reduzida ou insuficiente, quando o conduto não possa avistar a faixa de rodagem em toda a sua largura numa extensão de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e7.png",
+                "options": [
+                    "Pelo menos, 200 metros",
+                    "Pelo menos, 100 metros",
+                    "Pelo menos, 50 metros",
+                    "Pelo meos, 24 metros"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "O que indica o sinal",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e8.png",
+                "options": [
+                    "Paragem obrigatória para veículos que transportam substâncias perigosas",
+                    "Paragem proibída a veículos que transportam substâncias perigosas",
+                    "Área reserva para veículos que transportam susbtâncias perigosas"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "É aconselhável viajar à noite para evitar a fadiga?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e9.png",
+                "options": [
+                    "Sim, se a viagem é longa",
+                    "Sim, porque há menos tráfego",
+                    "Não, porque o sono aparece mais facilmente",
+                    "Sim, viajar durante a noite é sempre mais seguro"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "O que indica o sinal de informação",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e10.png",
+                "options": [
+                    "Área reservada para automóveis ligeiros",
+                    "Área reservada para táxis",
+                    "Parque de estacionamento para automóveis de passageiros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "Conduzindo com chuva",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e11.png",
+                "options": [
+                    "A distância de travagem é menor",
+                    "Aumenta a distância de reação",
+                    "Deve aumentar a distância de segurança para o veículo da frente",
+                    "Só gá perigo quando se formam poças"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e12.png",
+                "options": [
+                    "Sentido obrigatório para a frente",
+                    "Existência de portagem na via em que segue",
+                    "Via rápida"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "O trânsito de veículos ou de animais é feito ...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e13.png",
+                "options": [
+                    "Do lado direito das faixas de rodagem e o mais próximo das bermas ou passeios",
+                    "Próximo do eixo da via",
+                    "Pela esquerda das faixas de rodagem e o mais próximo possível das bermas ou passeios, mas a uma distância deste que permita evitar qualquer acidente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Os automóveis pesados de passageiros, ora das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e14.png",
+                "options": [
+                    "100 km/h",
+                    "80 km/h",
+                    "120 km/h"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Quando os amortecedores estão desgastados:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e15.png",
+                "options": [
+                    "Reduz-se o risco de aquaplanagem",
+                    "A distância de travagem aumenta perigosamente",
+                    "Reduz-se a distância de paragem",
+                    "Aumenta a aderência dos pneus"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "Deve utilizar-se as luzes de perigo",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e16.png",
+                "options": [
+                    "Ao estacionar em segunda fila",
+                    "Para avisar os outros utentes que o veículos vai fazer marcha trás",
+                    "Em caso de imobilização por acidente, ou avaria, se origina perigo para os demais utentes da via",
+                    "Apenas quando o veículo seteja a ser rebocado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "Uma das consequências de aumentar a velocidade, é que ...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e17.png",
+                "options": [
+                    "Aumenta a gravidade das lesões em caso de acidente",
+                    "Melhora o tempo de reação",
+                    "Reduz a distância de travagem",
+                    "Reduz as distrações"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e18.png",
+                "options": [
+                    "Trânstio probido a peões, animais e veículos automóveis",
+                    "Trânsito proibido a animais e veículos não automóveis",
+                    "Trânsito proibido a peões, animais e veículos não automóveis"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "O que comunica o condutor as outros utentes da via ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e19.png",
+                "options": [
+                    "Que vai voltar para o lado esquerdo do volante",
+                    "Que vai voltar para o lado direito do volante",
+                    "Que vai reduzir a velocidade"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Todos os condutores de veículos ou animais são obrigados a ...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e20.png",
+                "options": [
+                    "Abandonar os veículos nos locais de estacionamenteo sem motivo justificado",
+                    "Obedecer ao sinal de paragem feito pelas autoridades com competências para a fiscalização do trânsito",
+                    "Reduzir ou suspender intencionalmente a circulação, formando filas de trânstio desnecessárias"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Os automóveis classificam-se em:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e21.png",
+                "options": [
+                    "Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Motociclos",
+                    "Motociclos, Ciclomotores, Triciclos, Quadriciclos, Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Mistos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "É proíbido ultrapassar:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e22.png",
+                "options": [
+                    "Imediatamente antes e nas passagens de peões",
+                    "Em todas curvas",
+                    "Depois dos cruzamentos",
+                    "Nas estradas que só tenham uma via de trânsito para cada sentido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Os peões, para atravessar a faixa de rodagem",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e23.png",
+                "options": [
+                    "Podem fazê-lo sem utilizar as passagens para peões, se não existe nenhuma a uma distância inferior a 10 m",
+                    "Devem certificar-se de que a distância e velocidade dos veículos, permite fazê-lo sem perigo de acidente",
+                    "Estão sempre obrigado a utilizar a passagem desnivelada para peões",
+                    "Tem sempre prioridade de passagem"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "O sinal indica",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e25.png",
+                "options": [
+                    "Existência de controlde tráfeo adiante",
+                    "Congestionamento de tráfego",
+                    "Controlo policial por pirilampos"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 25,
+                "title": "Nos veículos destinados ao transporte de passageiros ou mistos ...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e25.png",
+                "options": [
+                    "A carga pode ocultar a matrícula e os dispositivos de sinalização e iluminação",
+                    "A carga deve colocar-se na parte reservada aos passageiros, mesmo que reduza a visibilidade do condutor",
+                    "A carga deve estar arrumada por forma que seja devidamente assegurado o equilíbrio do veículo",
+                    "A carga pode ultrapassar os contornos do veículo"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
     }
 ]
