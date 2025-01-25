@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O condutor está sujeito ao aparecimento de fadiga, quando circula com trânsito intenso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e1.png",
+                "options": [
+                    "Está porque é uma situação de transito monótona o que provoca fadiga. ",
+                    "Não está porque circula a velocidade reduzida.",
+                    "Não está porque nesta situação pode descansar devido à pouca velocidade do trânsito."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "2. Como se mede a quantidade de álcool ingerido?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e2.png",
+                "options": [
+                    "Pela proporção entre a quantidade de álcool ingerido num determinado espaço de tempo.",
+                    "Pela proporção entre a quantidade de álcool existente num determinado volume de sangue. ",
+                    "Pela proporção entre a quantidade de álcool ingerido em duas horas."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "O que indica uma curta distância existente entre os veículos que circulam à minha frente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e3.png",
+                "options": [
+                    " Que devo moderar a velocidade.",
+                    "Que circulo mais rápido do que eles.",
+                    "Que vou entrar numa localidade.",
+                    "Que devo ultrapassar para não estar em perigo."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "Nas descidas de inclinação acentuada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e4.png",
+                "options": [
+                    "Os automóveis ligeiros não podem transitar sem utilizarem o motor como auxiliar do travão",
+                    " Todos os automóveis não podem transitar sem utilizarem o motor como auxiliar do travão",
+                    "Os automóveis pesados não podem transitar sem utilizarem o motor como auxiliar do travão ",
+                    "Só os automóveis pesados de passageiros não podem transitar sem utilizarem o motor como auxiliar do travão"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Se passar por um acidente ou por vítimas de doença súbita, deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e5.png",
+                "options": [
+                    "Ligar de imediato para o hospital.",
+                    " Iniciar de imediato as ações de primeiro socorro mesmo que não domine os procedimentos.",
+                    "niciar de imediato as ações para evitar que a situação de emergência se agrave, incluindo proceder à segurança do local, das vítimas e dos que prestam socorro."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "6. Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e6.png",
+                "options": [
+                    "Motociclos com carro, dentro das localidades 40, fora das localidades 70.",
+                    "Motociclos com carro, dentro das localidades 50, fora das localidades 80.",
+                    "Motociclos com carro, dentro das localidades 50, fora das localidades 70.",
+                    "Motociclos com carro, dentro das localidades 60, fora das localidades 90."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 7,
+                "title": "Numa paragem ou estacionamento irregular:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e7.png",
+                "options": [
+                    "A contravenção é punida com a multa de 1000,00 Mt.",
+                    "A contravenção é punida com a multa de 500,00 Mt.",
+                    " A contravenção é punida com a multa de 2000,00 Mt.",
+                    "A contravenção é punida com a multa de 3000,00 Mt."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "O trânsito de veículos ou de animais é feito…",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e12.png",
+                "options": [
+                    "Do lado direito das faixas de rodagem e o mais próximo possível das bermas ou passeios",
+                    "Próximo do eixo da via",
+                    "Pela esquerda das faixas de rodagem e o mais próximo possível das bermas ou passeios, mas a uma distância destes que permita evitar qualquer acidente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e14.png",
+                "options": [
+                    "Paragem proibida a veículos que transportam substâncias perigosas",
+                    "Paragem obrigatória para veículos que transportam substâncias perigosas",
+                    "Área reservada para veículos que transportam substâncias perigosas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "Parar ou estacionar, é proibido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e10.png",
+                "options": [
+                    "A menos de 3 m para a frente e 15 m para um e outro lado dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros, consoante circulem ou não sobre carris",
+                    "A menos de 5 m para a frente e 15 m para um e outro lado dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros, consoante circulem ou não sobre carris.",
+                    "A menos de 3 m para a frente e 10 m para um e outro lado dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros, consoante circulem ou não sobre carris.",
+                    " A menos de 1 m para a frente e 10 m para um e outro lado dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros, consoante circulem ou não sobre carris."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "11. A distância de reacção é influenciada por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e11.png",
+                "options": [
+                    "Velocidade e tempo de reacção",
+                    "Distância de travagem e tempo de reacção.",
+                    "Tempo de reacção e estado da via.",
+                    "Apenas por factores externos ao condutor."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "A direcção assistida permite:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e12.png",
+                "options": [
+                    " Aumentar o ângulo de viragem.",
+                    "Diminuir o esforço do condutor no volante. ",
+                    "Diminuir a desmultiplicação no volante.",
+                    "Efectuar as curvas de uma forma mais rápida."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "Todos os condutores de veículos ou animais são obrigados a....",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e13.png",
+                "options": [
+                    " abandonar os veículos nos locais de estacionamento sem motivo justificado.",
+                    " obedecer ao sinal de paragem feito pelas autoridades com competência para fiscalização do trânsito.",
+                    "reduzir ou suspender intencionalmente a circulação, formando filas de trânsito desnecessárias."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "Os condutores de veículos prioritários:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e14.png",
+                "options": [
+                    " Podem, se necessário, não observar as regras e os sinais de trânsito, com a excepção dos sinais dos agentes reguladores de trânsito.",
+                    "Não podem nunca deixar de observar as regras e os sinais de trânsito.",
+                    "Podem, se necessário, não observar os sinais dos agentes reguladores de trânsito."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Se o condutor que segue à minha frente assinala a manobra de mudança de direcção para a direita, posso ultrapassar?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e15.png",
+                "options": [
+                    "Sim, pela direita.",
+                    "Sim, pela esquerda, certificando-se que o pode fazer sem perigo de acidente.",
+                    "Não.",
+                    "Sim, pela direita ou pela esquerda, sempre que o veículo não esteja em movimento."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "Considera-se morte por acidente de viação:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e18.png",
+                "options": [
+                  "Aquela que ocorre até 30 dias após o registro do sinistro",
+                  "Aquela que ocorre no local do sinistro",
+                  "Aquela que ocorre 30 dias depois de registro do sinistro"
+                ],
+                "correctOptionIndex": 0
+              },
+            {
+                "id": 17,
+                "title": "O estado de alerta do condutor, é influenciado pela fadiga, afectando a forma como:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e17.png",
+                "options": [
+                    "O veículo se comporta no ambiente rodoviário.",
+                    " O condutor recolhe as informações relevantes do ambiente rodoviário. ",
+                    "O condutor realiza a manobra de ultrapassagem."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "A condução defensiva manifesta-se por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e18.png",
+                "options": [
+                    "O condutor ser sempre o primeiro a avançar em todas as intersecções.",
+                    "O condutor ter em conta apenas os seus direitos e nunca os seus deveres.",
+                    "O condutor ceder os seus direitos em benefício da segurança rodoviária. ",
+                    "O condutor ceder sempre a passagem aos condutores que se apresentem numa intersecção."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Quem exceder de 40 Km/h até 60 Km/h de velocidade (automóveis ligeiros e motociclos) os limites, dentro das localidades é punido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e19.png",
+                "options": [
+                    "Com multa de 4.000,00 Mt e contravenção grave. ",
+                    "Com multa de 6.000,00 Mt e contravenção grave.",
+                    "Com multa de 4.000,00 Mt e contravenção média.",
+                    "Com multa de 2.000,00 Mt e contravenção grave."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 20,
+                "title": "Em especial à noite, com nevoeiro (cacimba), as luzes de estrada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e20.png",
+                "options": [
+                    "Devem ser usadas porque permitem uma maior visibilidade a maior distância.",
+                    "Devem ser evitadas porque reflectem-se no nevoeiro impedindo a visibilidade a maior distância.",
+                    "Devem ser evitadas porque permitem uma maior visibilidade a maior distância",
+                    "São as mais aconselháveis para garantir alguma visibilidade."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Quem não teve uma boa noite de descanso:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e21.png",
+                "options": [
+                    " Mais facilmente se torna vítima de estados de fadiga.",
+                    "Deve tomar mais cafés durante o dia enquanto conduz.",
+                    "Deve beber muita água durante o dia enquanto conduz.",
+                    "Não afecta a sua capacidade de condução."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e16.png",
+                "options": [
+                    "A presença de cancela motorizada ao centro",
+                    "A presença de ponte móvel",
+                    "A presença de entrocamento oblíquo à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "O tomar bebidas alcoólicas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e23.png",
+                "options": [
+                    "Aumenta o campo visual, a capacidade de exploração visual, a visão dupla e redução da capacidade de readaptação após encandeamento.",
+                    "Reduz o campo visual, a capacidade de exploração visual e a capacidade de readaptação visual após encandeamento.",
+                    "Reduz o campo visual, a capacidade de exploração visual e aumenta a capacidade de readaptação visual após encandeamento."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "24. Em caso de nevoeiro (cacimba), o que devemos ter presente, ao considerar a distância de segurança?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e24.png",
+                "options": [
+                    "Que basta manter uma distância pequena independentemente da velocidade.",
+                    "Que essa distância depende unicamente do tipo de veículo que vai à nossa frente.",
+                    "Que há zonas mais densas onde a visibilidade repentinamente se reduz.",
+                    "Que como a velocidade praticada pelos veículos é menor devemos seguir mais perto possível do veículo da frente."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "A distância de travagem depende principalmente de que factores?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame18/e25.png",
+                "options": [
+                    "Estado psicofisico do condutor e velocidade do veículo.",
+                    "Tipo e estado da via, estado e velocidade do veículo.",
+                    "Estado do veículo, tipo de via e visibilidade.",
+                    "Só depende do estado físico e psiquico do condutor"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]

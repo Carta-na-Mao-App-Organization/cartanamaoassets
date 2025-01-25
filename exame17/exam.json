@@ -1,0 +1,301 @@
+[
+    {
+        "id": 17,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Mudança de direcção é uma manobra em que:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Um condutor toma outra via que se intersecta com aquela em que vinha circulando",
+                    "Um condutor toma outra via que é paralela aquela em que vinha circulando",
+                    "Um condutor toma outra faixa de sentido contrário aquela em que vinha circulando",
+                    "Um condutor faz inversão de sentido de marcha"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "A deslocação do ar causado pela passagem de veículos pesados em alta velocidade:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Provoca ventos frontais que afectam os veículos ligeiros mais leves",
+                    "Provoca ventos laterais que afectam, sobretudo os veículos pesados de passageiros",
+                    "Provoca ventos laterais que afectam os veículos ligeiros leves",
+                    "Não tem influência para os outros condutores"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "A deslocação do ar causado pela passagem de veículos pesados em alta velocidade:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "options": [
+                    "Provoca ventos frontais que afectam os veículos ligeiros mais leves",
+                    "Provoca ventos laterais que afectam, sobretudo os veículos pesados de passageiros",
+                    "Provoca ventos laterais que afectam os veículos ligeiros leves",
+                    "Não tem influência para os outros condutores"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 4,
+                "title": "Podem ser submetidos às provas para a detecção de álcool ou substâncias estupefacientes ou psicotrópicas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Apenas os condutores de veículos automóvels.",
+                    "Os peões, sempre que sejam intervenientes em acidentes de trânsito e os condutores.",
+                    "Todos os condutores e peões que transitem pela via pública.",
+                    "Só os condutores que sejam intervenientes em acidentes de trânsito."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "5. Depola de ter tomado bebidas alcoólica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    " O álcool entra directamente no sistema urinário.",
+                    "O álcool entra rapidamente no sistema circulatório.",
+                    " O álcool demora duas horas a entrar no sistema circulatório."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Deve utilizar-se as luzes de perigo...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e6.png",
+                "options": [
+                    "Ao estacionar em segunda fila",
+                    "Para aviasar os outros utentes que o veículo vai fazer marcha atrás",
+                    "Em caso de imobilização por acidentes ou avaria, se origina perigo para os demais utentes da via",
+                    "Apenas quando o veículo esteja ser rebocado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Atirar do veículo ou abandonar na via objecto ou substância, constitui contravenção:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e8.png",
+                "options": [
+                    "Leve",
+                    "Grave",
+                    "Média"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Como medida defensiva, o condutor deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Circular com óculos escuros para evitar encadeamento.",
+                    " Deve usar sempre a buzina para alertar outros utentes da via da sua presença.",
+                    "Dar a conhecer as suas Intenções através de sinalização",
+                    "Parar sempre que se aproxime de um cruzamento para evitar um acidente."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Parque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Toneladas. ",
+                    "Parque de estacionamento para automóveis pesados de passageiros de peso total superior a 10 toneladas",
+                    "Parque de estacionamento para automóveis pesados de mercadorias de peso total superior a 10 Kilos",
+                    "Parque de estacionamento para todos os automóveis de peso total superior a 10 toneladas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "O que indica o sinal",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e10.png",
+                "options": [
+                  "Sentido proibido",
+                  "Trânsito proibido",
+                  "Trânsito proibido a automóveis ligeiros de passageiros",
+                  "Nenhuma das anteriores"
+                ],
+                "correctOptionIndex": 1
+              },
+            {
+                "id": 11,
+                "title": "Todo o condutor de veiculos ou de animais é obrigado:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Sempre que não haja obstáculo que o impeça, a facilitar imediatamente a ultrapassagem desviando-se o mais possivel para a direita e não aumentar a sua velocidade enquanto não for ultrapassado.",
+                    "Sempre que não haja obstáculo que o impeça, a facilitar imediatamente a ultrapassagem desviando se o mais possivel para a esquerda e não aumentar a sua velocidade enquanto não for ultrapassado.",
+                    "Sempre que não haja obstáculo que o impeça, a facilitar imediatamente a ultrapassagem desviando-se o mais possível para a esquerda e aumentar a sua velocidade enquanto não for ultrapassado.",
+                    "Sempre que não haja obstáculo que o impeça, a facilitar imediatamente a ultrapassagem desviando-se o mais possível para o elxo da via e não aumentar a sua velocidade enquanto não for ultrapassado."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Qual a frase que melhor define ver na afirmação conduzir implica ver, pensar e agir? ",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    " Estar muito atento ao condutor que val à sua frente.",
+                    "Procurar e seleccionar informação signilicativa.",
+                    "Olhar o mais longe possivel."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": " O trânsito de veículos ou animais é feito…",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "do lado direito das faixas de rodagem e o mais próximo possivel das bermas ou passeios.",
+                    "próximo do eixo da via.",
+                    "pela enquerda das taixas de rodagem e o mais próximo possivel das bermas ou passeios, mas a uma distância desses que parmita evitar qualquer acidente "
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "14. Da condutores de veiculos prioritários:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Não podem nunca deixar de observar as regras e os sinais de trânsito.",
+                    "Podom, se nocossário, não obsorvor as rogras e os sinais do trânsito, com a excopção dos sinais dos aguntos reguladores de transito.",
+                    "Podem, se necessário, não observar os sinais dos agentes reguladores de trânsito."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "Considera-se morte por acidente de viação",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Aquela que ocorre até 30 dias após o registo de sinistro",
+                    "Só aquela que ocorre no local do sinistro",
+                    "Só aquela que ocrroe à caminho da unidade sanitária",
+                    "Aquela que ocrre 30 dias depois do registo do sinistro"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "Como é feito o processo de eliminação do álcool no organismo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Pelo figado, pelo ar expirado, pela urina o pela transpiração. ",
+                    "Pela urina e pela transpiração.",
+                    "Pelo ar expirado, pela urina e quantidade de água ingerida.",
+                    " Pela quantidade de caté e água que tome depois de beber."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "Quem exceder de 30 Km/h a 60 Km/h de veloeidade (automóveis ligeiros e motociclos) os limites, fora das localidades é punido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Com multa de 3.000,00 Mt e contravenção média",
+                    "Com multa de 2.000,00 Mt e contravenção leve.",
+                    "Com multa de 2.000,00 Mt e contravenção média",
+                    "Com multa de 2,000,00 Mt e contravenção grave."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "18. A condução de um veículo implica uma estratégia por parte do seu condutor, que inclui:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "A definição de vários trajectos e do tempo de viagem.",
+                    "A definição dos tempos de descanso durante o trajecto.",
+                    "A definição de uma trajectoria e de uma velocidade."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Os sistemas de segurança passiva dos veículos têm a função de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Evitar ou reduzir as lesões que podem ocorrer no caso de sofrer um acidente",
+                    "Evitar os acidentes",
+                    "Transmitir uma sensação de segurança quando se circula a velocidade elevadas",
+                    ""
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 20,
+                "title": "20. Quando os veículos transitem com as luzes acesas por falta de luminosidade:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Os sinais sonoros não podem ser substituidos por sinais luminosos dos faróis do veículo. ",
+                    "E obrigatória a substituição por sinais luminosos dos faróis do veículo usados intermitentemente e por forma a nao causar encandeamento.",
+                    "Os sinais sonoros podem ser substituidos por sinale luminosos dos faróis do veículo usados intermitentemente e por forma a não causar encandeamento.",
+                    "Os sinais sonoros podem ser substituidos por sinais luminosos dos faróis do veiculo usando as luzes de máximos."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Os condutores devem, nos cruzamentos, entroncamentos e rotundas",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Ceder passagem aos veiculos que se desloquem sobre carris.",
+                    " Ceder passagem a todos os veiculos.",
+                    "Ceder passagem a todos os veículos que se apresentem pela esquerda.",
+                    "Ceder passagem a todos os velocipedes"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "O tomar bebidas alcoólicas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Afecta a trajectória do veículo.",
+                    "Afecta as capacidades cognitivas e perceptivas de condutor.",
+                    "Aumenta a capacidade de reacção do condutor.",
+                    "Diminui a possibilidade de o condutor sofrer de fadiga."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Assinale a afirmação falsa relativa e eventuais efeitos da chuva intensa.",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Quando passar num lençol de água o o veiculo doslizar, é aconselhável pressionar o travão até que a aderência das rodas seja retomada. ",
+                    "O 'aquaplanning pode ser agravado pelo mau estado dos pneumáticos e pela cireulação com velocidade excessiva.",
+                    "A água acumulada no solo pode reduzir a eficácia do funcionamento dos travões.",
+                    "O raquaplanning pode ser agravado pelo mau estado da suspensão do veiculo."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 24,
+                "title": "Em caso de nevoeiro (cacimba), o que devemos ter presente, ao considerar a distância de segurança?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    "Que basta manter uma distância pequena independentemente da velocidade.",
+                    "Que essa distância depende unicamente do tipo de veículo que vai à nossa frente.",
+                    "Que há zonas mais densas onde a visibilidade repentinamente se reduz. ",
+                    "Que como a velocidade praticada pelos veículos é menor devemos seguir mais perto possível do veículo da frente."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "A distância de travagem depende principalmente de que factores?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame17/e1.png",
+                "options": [
+                    " Estado psicofisico do condutor e velocidade do veículo.",
+                    "Tipo e estado da via, estado e velocidade do veículo. ",
+                    "Estado do veículo, tipo de via e visibilidade.",
+                    "Só depende do estado físico e psiquico do condutor."
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]
