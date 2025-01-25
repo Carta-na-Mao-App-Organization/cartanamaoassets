@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O que influencia a distância da recção?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e1.png",
+                "options": [
+                    "Tempo de reacção e velocidade",
+                    "Estado do veículo e condições ambientais.",
+                    "Velocidade e  estado da via.",
+                    "Condições do condutor e distância de travagem"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "O que indica o sinal",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e7.png",
+                "options": [
+                    "Fim da fila de trânsito à esquerda",
+                    "Convergência de filas de trânsito",
+                    "Fim da fila de trânsito à direita"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Se o condutor sofre de uma doença, o que deve fazer para reduzir o risco de ter um acidente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e3.png",
+                "options": [
+                    "Interromper a medicação que estiver a tomar, se tem que conduzir.",
+                    "Deixar de conduzir em todos os casos.",
+                    "Conhecer os efeitos secundários dos medicamentos",
+                    "Ignorar os sintomas para evitar distracções."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 4,
+                "title": "O que indica o sinal luminoso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e9.png",
+                "options": [
+                    "Acesso ou passagem autorizado",
+                    "Acesso ou passagem condicionado",
+                    "Acesso ou passagem interdito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Na via pública, a carga e descarga de um veículo deve ser feita:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e5.png",
+                "options": [
+                    "Sempre pela direita.",
+                    "Sempre pela retaguarda.",
+                    "Sempre pela esquerda.",
+                    "Pela retaguarda ou pela"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 6,
+                "title": "O significado destes sinais é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e6.png",
+                "options": [
+                    "Saída com uma via de rodagem.",
+                    "Saída com uma estrada de um sentido.",
+                    "Saída com uma faixa de rodagem",
+                    "Entrada com uma faixa de rodagem."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "A razão pela qual não se deve retirar ou movimentar do interior dos veículos, as vítmas de acidentes é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e7.png",
+                "options": [
+                    "Para não contaminar o local do acidente.",
+                    "Para não passar doenças  que socorre.",
+                    "Para serem evitadas lesões crânio encefálicas, lesões da coluna cervical ou outras em órgãos internos ou ossos fracturados"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Com relação aos acidentados, qual a ordem pela qual devem ser postos em prática os três príncipios de actuação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e8.png",
+                "options": [
+                    "Socorrer, Alertar e Prevenir.",
+                    "Alertar, Socorrer e Prevenir.",
+                    "Prevenir, Alertar e Socorrer"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "Quem não teve uma boa noite de descanso:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e9.png",
+                "options": [
+                    "Deve tomar mais cafés durante o dia enquanto conduz.",
+                    "Deve beber muita água durante o dia enquanto conduz.",
+                    "Não afecta a sua capacidade de condução.",
+                    "Mais facilmente se torna vítma de estados de fadiga"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 10,
+                "title": "Os automóveis ligeiros de passageiros, devem estar equipados com sinais de pré-sinalização, de perigo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e11.png",
+                "options": [
+                    "Sim, um colete reflecter e um triângulo de pré-sinalização de perigo",
+                    "Não",
+                    "Sim, dois triangulos de pré sinalização de perigo e um colete reflector",
+                    "Sim, apenas são obrigatórios dois triângulos de pré-sinalização de perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 11,
+                "title": "O estado de alerta do condutor, é influenciado pela fadiga, afectando a forma como:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e11.png",
+                "options": [
+                    "O veículo se comporta no ambiente rodoviário",
+                    "O condutor realiza a manobra de ultrapassagem.",
+                    "O condutor recolhe as informações relevantes do ambiente rodoviário"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "A definição de pista especial é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e12.png",
+                "options": [
+                    "Via privada especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos",
+                    "Via pública privada especialmente destinada, de acordo com sinalização, ao trânsito de veículos automóveis.",
+                    "Via pública especialmente destinada ao trânsito de veículos de polícias.",
+                    "Via pública especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 13,
+                "title": "Conduzir sob influência de álcool, sob efeitos de substâncias legalmente consideradas como estupefacientes ou psicotrópicas, constitui contravenção:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e13.png",
+                "options": [
+                    "Leve",
+                    "Média",
+                    "Grave"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Em caso de nevoeiro (cacimba) os 4 piscas ou luzes de emergência, só devem ser utilizados:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e14.png",
+                "options": [
+                    "Se o veículo estiver imobilizado, a circular a velocidade muito baixas ou quando fizer uma travagem forte e repentina",
+                    "Quando o veículo circular a uma velocidade moderada.",
+                    "Sempre que mudar de direcção ou iniciar uma ultrapassagem.",
+                    "Devem ser usadas sempre."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Para manter a segurança do veículo, devem ser revistos periodicamente:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e15.png",
+                "options": [
+                    "Os pneus, amortecedores e travões",
+                    "As luzes, espelhos e o sistema de escape",
+                    "A bateria, o filtro do óleo e o dor ar",
+                    "O sistema de som"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "O espaço percorrido pelo veículo durante o tempo de reacção do condutor não é sempre o mesmo e dependente:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e16.png",
+                "options": [
+                    "Só do tempo da reacção do condutor e não tem influência a velocidade do veículo.",
+                    "Do tempo da reacção e da velocidade do veículo",
+                    "Só da velocidade do veículo e não tem influência o tempo de reacção do condutor.",
+                    "Principalmente de factores externos ao condutor."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "Durante a noite, o condutor deve circular com:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e17.png",
+                "options": [
+                    "Sempre com os médicos ligados, utilizando os mínimos no cruzamento com os outros veículos e os máximos quando não houver trânsito.",
+                    "Sempre com os máximos ligados, utilizando os mínimos no cruzamento com outros veículos.",
+                    "Os médios ligados e utilizar os máximos, quando não existir outro trânsito a circular à sua frente ou sentido contrário",
+                    "É indiferente as luzes usadas desde que consiga ver bem a estrada."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Nas pontes, túneis e passagens de nível:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e18.png",
+                "options": [
+                    "Os animais só quandoo estiverem atrelados, devem seguir a passo.",
+                    "Os animais atrelados ou não, devem seguir a passo.",
+                    "Os animais quando não atrelados, devem seguir a passo de corrida.",
+                    "Os animais atrelados ou não, devem seguir a passo de corrida."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "Para não causar perigo e por causa a segurança das pessoas e das coisas, os condutores deem...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e19.png",
+                "options": [
+                    "circular nos limites máximos de velocidades das estradas.",
+                    "circular abaixo limites mínimos de velocidade.",
+                    "regular a velocidade atendendo às características do veículo, às condições da via e ao estado do condutor",
+                    "ficar em ponto morto nas descidas muito inclinadas."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "O que deve fazer o condutor que circula por uma auto-estrada",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e6.png",
+                "options": [
+                  "Diminuir a distância de segurança, por se seguir a velocidade elevadas",
+                  "Aumentar a distância de segurança, por se seguir a velocidade mais elevadas",
+                  "Circular pela via de trânsito à direita, ainda que a via da esquerda se encontre livre de trânsito"
+                ],
+                "correctOptionIndex": 1
+              },
+            {
+                "id": 21,
+                "title": "Qual a antecedência mínima que ordenar a suspensão so trânsito nas estradas nacionais, deve anunciá-la ao público?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e21.png",
+                "options": [
+                    "Uma semana.",
+                    "Quinze dias",
+                    "Três dias",
+                    "Um dia."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal luminoso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e10.png",
+                "options": [
+                  "Acesso ou passagem interdito",
+                  "Acesso ou passagem autorizado",
+                  "Acesso ou passagem condicionado"
+                ],
+                "correctOptionIndex": 0
+              },
+              {
+                "id": 23,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame7/e11.png",
+                "options": [
+                  "Sinalização luminosa",
+                  "Passagem de nível",
+                  "Sinalização luminosa em manutenção",
+                  ""
+                ],
+                "correctOptionIndex": 2
+              },
+            {
+                "id": 24,
+                "title": "A condução sob influêncis do álcool:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e24.png",
+                "options": [
+                    "Aumenta o risco de acidente",
+                    "Diminui o risco de acidente",
+                    "Em nada interfere com a segurança rodoviária",
+                    "Pode melhorar o estado do condutor devido à melhora da sua disposição."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 25,
+                "title": "O que deve fazer o condutor se a fila de esquerda estiver a circular mais rapidamente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame22/e25.png",
+                "options": [
+                    "Mudar de fila de trânsito",
+                    "Manter-se na fila de trânsito em que se encontra",
+                    "Sinalizar e mudar de fila de trânsito"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]

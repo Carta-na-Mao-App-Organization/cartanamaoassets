@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Em caso de avaria, os sinais de pre-sinalização de perigo devem colocar-se por forma a ficar bem visíveis a uma distância de...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e21.png",
+                "options": [
+                    "Pelo menos 100 metros",
+                    "Pelo menos 50 metros",
+                    "Pelo menos 25 metros",
+                    "10 metros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "A distância de segurança deve ser sempre a que me permita imobilizar o veículo sem perigo de acidente.",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e2.png",
+                "options": [
+                    "Errado ",
+                    " A distância de segurança só deve depender da capacidade de travagem do veículo ",
+                    "Certo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "O condutor deve ter em atenção que, se tem problemas de sono…",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e3.png",
+                "options": [
+                    "Não se encontra em perfeitas condições para conduzir ",
+                    "É aconselhável tomar bastantes substâncias estimulantes para ficar acordado ",
+                    "Deve dormir mais horas para conduzir ",
+                    "o seu estado não tem influência na condução "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "O que provoca num condutor, a elevada ingestão de bebidas alcoólicas",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e4.png",
+                "options": [
+                    "A redução da distância da paragem ",
+                    " O aumento da capacidade de atenção e concentração ",
+                    "A redução da capacidade de reação ",
+                    "O aumento das capacidades de avaliação das distâncias"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Com nevoeiro (cacimba) a distância de segurança aplicável:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e5.png",
+                "options": [
+                    "Não é a mesma que em condições de boa visibilidade",
+                    "É a mesma que em condições de boa visibilidade ",
+                    "É a indicada pela sinalização vertical ",
+                    "É menor para permitir ver o carro que segue à sua frente"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "Qual é a validade que tem a carta de condução da categoria B?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e23.png",
+                "options": [
+                  "Dois anos",
+                  "Cinco anos",
+                  "Três anos",
+                  "Dez anos"
+                ],
+                "correctOptionIndex": 1
+              },
+            {
+                "id": 7,
+                "title": "A paragem é o estacionamento devem fazer-se, fora das localidades:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e7.png",
+                "options": [
+                    "Nas faixas de rodagem ou, não sendo isso possível, o mais próximo possível da margem esquerda, paralelamente a esta e no mesmo sentido da marcha.",
+                    " Fora das faixas de rodagem ou, não sendo isso possível, o mais próximo possível da margem direita, paralelamente a esta e no sentido da marcha.",
+                    "Fora das faixas de rodagem ou, não sendo isso possível, o mais próximo possível da margem esquerda, paralelamente a esta e no mesmo sentido da marcha. ",
+                    " Fora das faixas de rodagem ou, não sendo isso possível, o mais próximo possível da respectiva margem esquerda, paralelamente a esta e no sentido contrário ao da marcha."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Qual é a validade que tem a carta de condução da categoria B?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e23.png",
+                "options": [
+                  "Dois anos",
+                  "Cinco anos",
+                  "Três anos",
+                  "Dez anos"
+                ],
+                "correctOptionIndex": 1
+              },
+              {
+                "id": 9,
+                "title": "O feixe luminoso emitido pelas luzes de cruzamento (médios), deve projectar-se no solo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e2.png",
+                "options": [
+                  "E iluminá-lo eficazmente, numa distância não supeior a 30 metros",
+                  "E no mínimo, iluminá-lo a 100 metros",
+                  "E iluminá-lo eficazmente, numa distância não superior a 50 metros"
+                ],
+                "correctOptionIndex": 0
+              },
+            {
+                "id": 10,
+                "title": "O que indica uma curta distância existente entre os veículos que circulam à minha frente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e10.png",
+                "options": [
+                    " Que devo moderar a velocidade",
+                    "Que círculo mais rápido do que eles ",
+                    "Que vou entrar numa localidade ",
+                    "Que devo ultrapassar para não estar em perigo "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "11. O vento afecta a estabilidade do veículo ",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e11.png",
+                "options": [
+                    "Especialmente em zonas urbanas com muitos edifícios altos ",
+                    " Especialmente em zonas abertas de planície, zonas marítimas costeiras ou de montanha ",
+                    "Especialmente em zonas de parques de estacionamento fechados ",
+                    "Não "
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Como é feito o processo de eliminação do álcool no organismo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e12.png",
+                "options": [
+                    "Pela urina e pela transpiração",
+                    "Pelo fígado, pelo ar expirado, pela urina e pela transpiração ",
+                    "Pelo ar expirado, pela urina e quantidade de água ingerida ",
+                    "Pela quantidade de café e água que tome depois de beber "
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "13. Os veículos possuem, para combater a escuridão ou falta de iluminação na condução nocturna: ",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e13.png",
+                "options": [
+                    "Buzinas ",
+                    "Luzes de emergência",
+                    "Luzes, sinalizadores e reflectores"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Com nevoeiro (cacimba), a distância de segurança aplicável:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e14.png",
+                "options": [
+                    "Não é a mesma coisa que em condições de boa visibilidade ",
+                    "É a mesma que em condições de boa visibilidade ",
+                    " É a indicada pela sinalização vertical ",
+                    "É menor para permitir ver o carro que segue à sua frente "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Nenhum condutor deve tomar a direita dos veículos ou animais:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e15.png",
+                "options": [
+                    "Que pretenda ultrapassar sem avisar da sua intenção aos respectivos condutores ",
+                    "Sem fazer sinais de luzes durante o dia",
+                    "Sem fazer sinais de luzes durante a noite ",
+                    "Sem buzinar para avisar da sua intenção "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "O condutor está sujeito ao aparecimento da fadiga, quando circula com trânsito intenso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e16.png",
+                "options": [
+                    "Está porque é uma situação de trânsito monótona o que provoca fadiga",
+                    "Não está porque circula a velocidade reduzida ",
+                    "Não está porque nesta situação pode descansar devido à pouca velocidade do trânsito ",
+                    " Está e para evitar a fadiga deve beber café e bebidas estimulantes "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "Devido à ingestão de bebidas alcoólicas, a alteração do campo visual de um condutor, manifesta-se por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e17.png",
+                "options": [
+                    " Aumento da visão lateral",
+                    "Aumento da visão periférica ",
+                    "Redução da visão lateral ",
+                    "Aumento da visão em profundidade "
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "É proibido parar ou estacionar, fora das localidades:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e18.png",
+                "options": [
+                    "A menos de 30m dos cruzamentos, entroncamentos, curvas ou lombas de visibilidade reduzida ",
+                    "A menos de 50m dos cruzamentos, entroncamentos, curvas ou lombas de visibilidade reduzida ",
+                    "A menos de 10m dos cruzamentos, entroncamentos, curvas ou lombas de visibilidade reduzida ",
+                    "A menos de 20m dos cruzamentos, entroncamentos, curvas ou lombas de visibilidade reduzida "
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "A definição de auto-estrada é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e19.png",
+                "options": [
+                    "Via pública destinada a trânsito lento, com separação física de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal.",
+                    "Via pública destinada a trânsito rápido, com separação física de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal. ",
+                    "Via pública destinada a trânsito rápido, sem separação física de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal.",
+                    "Via pública destinada a trânsito rápido, com separação física de faixas de rodagem, com cruzamentos de nível e com acesso a propriedades marginais, com acessos condicionados e sinalizada como tal."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e20.png",
+                "options": [
+                    "Entroncamento transversal à esquerda.",
+                    "Entrocamento em forma de y ou bifurcação",
+                    "Entroncamento colateral à esquerda.",
+                    "Estrada convergente."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Estrada convergente.",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e21.png",
+                "options": [
+                    "Não, mas não dar o alerta pode incorrer no crime de omissão de auxílio ",
+                    "Sim, porque se não der o alerta pode incorrer no crime de omissão de auxílio ",
+                    "Sim, sempre "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Quando o condutor tem uma distrac'~ao....",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame6/e4.png",
+                "options": [
+                  "Aumenta incoscientemente a velocidade do veículo",
+                  "Deve avisar comas luzes de perigo",
+                  "Demora mais tempo em reagir",
+                  "Demora menos tempo em obter as informações necessárias para conduzir com segurança"
+                ],
+                "correctOptionIndex": 2
+              },
+            {
+                "id": 23,
+                "title": "Os estados de fadiga podem tornar as pessoas mais:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e23.png",
+                "options": [
+                    "Pacientes, aumentando-lhes a capacidade para se concentrarem e para tomarem decisões ",
+                    "Irritadiças, diminuindo-lhes a capacidade para se concentrarem e para tomarem decisões",
+                    "Amáveis, aumentando-lhes a capacidade para se concentrarem e para tomarem decisões ",
+                    "Atentas, dado que para combater a fadiga têm tendência a aumentar os níveis de atenção "
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "A tarefa de condução, pode ser muito afectada pela fadiga porque:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e24.png",
+                "options": [
+                    "Contribui para o aumento das capacidades perceptivas, intelectuais e também motoras ",
+                    "Contribui para despertar as capacidades cognitivas e motoras  ",
+                    " Contribui para a diminuição das capacidades perceptivas, cognitivas e também motoras",
+                    "Um condutor fatigado vê diminuindo o seu tempo de reação"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": " O significado deste sinal é: ",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame21/e25.png",
+                "options": [
+                    "Parque de estacionamento para todos os automóveis.",
+                    "Parque de estacionamento para automóveis pesados.",
+                    "Parque de estacionamento para automóveis ligeiros.",
+                    "Zona de paragem para automóveis ligeiros"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]
