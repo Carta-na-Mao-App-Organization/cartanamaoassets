@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O controlo dinâmico do veículo é uma das tarefas da condução e é...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e1.png",
+                "options": [
+                    "Efectuado através da aceleração e travagem do veículo.",
+                    "Efectuado através do sistema de direção.",
+                    "Efectuado através da definição da sua velocidade e da sua trajetória."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "O consumo do cannabis afecta o comportamento do condutor?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e11.png",
+                "options": [
+                    "Sim, diminui a sonolência",
+                    "Sim, aumenta o tempo de reacção",
+                    "Não",
+                    "Sim, aumenta o seu nível de atenção"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": " Em caso de nevoeiro (cacimba) forte?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e3.png",
+                "options": [
+                    "Deve pensar em parar em local seguro e aguardar que o nevoeiro levante",
+                    " Deve pensar em seguir viagem o mais depressa possível para sair da zona de nevoeiro rapidamente.",
+                    "Deve pensar em seguir viagem buzinando constantemente para assinalar a sua presença.",
+                    "Deve ligar as luzes de estrada e as luzes de emergência para ser mais facilmente visto pelos outros condutores."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "Para não causar perigo e por em causa a segurança das pessoas e das coisas, os condutores devem...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e15.png",
+                "options": [
+                    "Regular a velocidade atendendo às características do veículo, às condições da via e ao estado do condutor",
+                    "Circular nos limites máximos de velocidade das estradas",
+                    "Circular abaixo dos limites mínimos de velocidade",
+                    "Ficar em ponto morto nas descidas muito inclinadas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "Nos túneis, que luzes devem utilizar os veículos",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e17.png",
+                "options": [
+                    "De presença",
+                    "De cruzamento, se existe a possibilidade de encandear os condutores que circulem em sentido contrário",
+                    "De estrada, se existe a possibilidade de encandear os condutores que circulem em sentido contrário"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Para a realização da tarefa de condução, o seriado da visão é importante porque:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e6.png",
+                "options": [
+                    "Porque possibilita que eu conduza com maior velocidade.",
+                    "Porque possibilita os gestos da polícia.",
+                    "Possibilita identificar as formas, as cores e os movimentos de todos os elementos presentes no ambiente rodoviário.",
+                    " O sentido da visão não é importante para a condução, porque são as mãos e os pés que realizam a tarefa da condução."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "Circular com o braço fora do veículo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e7.png",
+                "options": [
+                    " É uma contravenção punida com multa de 500,00Mt.",
+                    "É uma contravenção punida com multa de 1.000,00Mt",
+                    "É uma contravenção punida com a multa de 2.000,00Mt.",
+                    "É uma contravenção punida com multa de 3.000,00Mt."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "É livre o trânsito rodoviário nas vias de domínio publico do Estado nas vias de domínio privado quando abertas ao trânsito público?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e8.png",
+                "options": [
+                    "Sim, mas as pessoas devem abster-se de fatos que impeçam ou embaracem o trânsito ou comprometam a segurança ou a comodidade dos utentes das vias.",
+                    "Não, mas as pessoas podem praticar actos que impeçam ou embaracem o trânsito e comprometam a segurança ou a comodidade dos utentes das vias.",
+                    "Sim, mas as pessoas podem praticar actos que impeçam ou embaracem o trânsito e comprometam a segurança ou a comodidade dos utentes das vias.",
+                    "Sim, desde que não comprometam a segurança."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Como devo actual perante a diminuição da aderência, que provoca o aumento da distância de travagem?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e9.png",
+                "options": [
+                    "Aumentar a velocidade.",
+                    "Diminuir a velocidade",
+                    " A diminuição de aderência à distância de travagem .",
+                    "Manter a velocidade."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 10,
+                "title": "A distância de reação é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e10.png",
+                "options": [
+                    "A distância percorrida pelo veículo desde que o condutor acciona o travão até parar.",
+                    "A distância percorrida pelo veículo desde que o condutor vê o perigo até reagir.",
+                    "A distância percorrida pelo veículo desde que o condutor vê o perigo até parar.",
+                    "A distância percorrida pelo veículo até que o condutor vê o perigo."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "Pode ter consequências num acidente o facto de não levar o cinto de segurança bem colocado?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e19.png",
+                "options": [
+                    "Não, se o veículo estiver equipado com airbag",
+                    "Não, o cinto é sempre eficaz",
+                    "Sim, porque pode provocar ferimentos graves",
+                    "Sim, por isso o seu uso não é obrigatório"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "A distância de segurança, é um factor a considerar:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e12.png",
+                "options": [
+                    "Apenas em condução urbana, devido à intensidade do trânsito.",
+                    "Nas estradas rurais pela diminuição dos limites de velocidade.",
+                    "Em qualquer situação."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "Com relação aos acidentados, qual a ordem devem ser postos em prática os três princípios de actuação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e13.png",
+                "options": [
+                    "Socorrer, Alertar e Prevenir.",
+                    "Alertar, Socorrer e Prevenir.",
+                    "Prevenir, Alertar e Socorrer."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Só pode ser ordenada a suspensão do trânsito por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e14.png",
+                "options": [
+                    "Motivos de segurança, de emergência grave ou de obras, ou com o fim de realizar a conservação dos pavimentos, instalação e obras de artes.",
+                    " Ser feriado e haver festejos.",
+                    "Motivos de segurança, de emergência grave ou de obras, ou com o fim de promover produtos e marcas automóveis.",
+                    "Ser fim de semana."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Em condições de frio, neve e gelo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e15.png",
+                "options": [
+                    "Verificar-se um aumento da aderência e da capacidade de tração do veículo.",
+                    "Só um caso de neve e frio é que se verifica uma diminuição da aderência e da capacidade de tração do veículo.",
+                    "Verifica-se uma diminuição da aderência e da capacidade de tração do veículo."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 16,
+                "title": "O que se entende por primeiros socorros?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e16.png",
+                "options": [
+                    " É a chegada rápida do pessoal especializado ao local da ocorrência do sinistro.",
+                    " São os cuidados prestados a uma pessoa que se fere ou adoece de repente, para mantê-la viva e impedir o agravamento da situação.",
+                    "É o transparente adequado do sinistro ou doente ao posto médico.",
+                    "São os meios humanos e materiais utilizados para a remoção dos acidentados."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Quais os procedimentos que o condutor deve adoptar antes de iniciar uma ultrapassagem?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e21.png",
+                "options": [
+                    "Deve certificar-se de que a pode fazer sem perigo e sinalizar a manobra aos outros condutores",
+                    "Deve observar apenas o espelho esquerdo",
+                    "Deve execeder os limtes de velocidade estabelecidos para poder terminar rapidamete a manobra",
+                    "Apenas deve sinalizar a sua intenção, já que as luzes indicadoras de direcção lhe dão prioridade para realizar a manobra"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Se o veículo entrar em equaplanagem (hidroplanagem) deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e18.png",
+                "options": [
+                    " Manter a calma e ser suave com os controlos, travar e girar o volante suavemente.",
+                    "Manter a calma e ser suave com os controlos, acelerar e girar o volante suavemente.",
+                    "Manter a calma e ser suave com os controlos, não travar nem acelerar ou girar o volante ",
+                    " Travar forte segurando bem o volante para que a trajetória do veículo não se altere."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "A regulamentação do trânsito no interior das localidades, compete...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e23.png",
+                "options": [
+                    "Às Delegações Provincias do INNATER",
+                    "Aos Corpos Administrativos ou aos Conselhos Municipais",
+                    "À ENE",
+                    "À Policia de Trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "A definição de inversão do sentido da marcha é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e20.png",
+                "options": [
+                    "Manobra através da qual o condutor coloca o veículo no mesmo sentido .",
+                    "Manobra através da qual o condutor coloca o veículo no mesmo sentido, em direção oposta.",
+                    "Manobra através da qual o condutor coloca o veículo em sentido oposto, na mesma direção.",
+                    "Manobra através da qual o condutor coloca o veículo em sentido oposto, na mesma direção."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Para os condutores de transporte de serviço público ou de carga perigosa, quando em exercício, a taxa de álcool de ve ser de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e25.png",
+                "options": [
+                    "0.3 mg/l",
+                    "0.0 mg/l",
+                    "0.6 mg/l"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 22,
+                "title": "Deve ser alguma preocupação especial quando circula dentro das localidades?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e22.png",
+                "options": [
+                    "Não.",
+                    "Sim, moderar a velocidade, especialmente nas vias marginadas por edificações.",
+                    "Sim, utilizar os sinais sonoros quando se aproximar de peões.",
+                    "Sim, apenas não ficar imobilizado nos cruzamentos ou entroncamentos."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "Para a execução de manobras, qual das seguintes lhe parece mais importante?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e23.png",
+                "options": [
+                    "Dedicação, atenção e uma atitude adequada.",
+                    "Empenho, atitude adequada e atenção.",
+                    "Treino, experiência e uma atenção adequada.",
+                    " Coragem, dedicação e determinação."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 24,
+                "title": "Com nevoeiro (cacimba), a distância de segurança aplicável:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e24.png",
+                "options": [
+                    " É a mesma que em condições de boa visibilidade.",
+                    "É indicada pela sinalização vertical.",
+                    "Não é mesma que em condições de boa visibilidade.",
+                    "É menor para permitir ver o carro que segue à sua frente."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "A condução defensiva manifesta-se por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame19/e25.png",
+                "options": [
+                    "O condutor ser sempre o primeiro a avançar em todas as intersecções.",
+                    "O condutor ceder os seus direitos da segurança rodoviária",
+                    "O condutor ter em conta apenas os seus direitos e nunca os seus deveres.",
+                    "O condutor ceder sempre a passagem aos condutores que se apresentam numa intersecção."
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]

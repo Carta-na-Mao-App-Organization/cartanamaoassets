@@ -1,0 +1,300 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "1. As baixas temperaturas que normalmente acompanham a existência de nevoeiro, que podem provocar?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e1.png",
+                "options": [
+                    "O embaciamento dos vidros e consequente aumento da visibilidade para o exterior.",
+                    "Ser mais fácil limpar os vidros já que estes estão molhados.",
+                    "O embaciamento dos vidros e consequente diminuição da visibilidade para o exterior."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "Das seguintes, qual ou quais não fazem parte das virtudes profissionais necessárias para a boa condução de veículos automóveis:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e4.png",
+                "options": [
+                    "Egoísmo",
+                    "Responsabilidade",
+                    "Cortesia e boas maneiras",
+                    "Honestidade"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 3,
+                "title": "De que modo, o consumo de álcool altera o comportamento de condutor?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e5.png",
+                "options": [
+                    "Diminui o seu tempo de reacção",
+                    "Diminui os seus erros na condução",
+                    "Aumenta a autoconfiança, e por isso aumentam os riscos",
+                    "Reduz a sua agressividade na condução"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 15,
+                "title": "Para não causar perigo e por em causa a segurança das pessoas e das coisas, os condutores devem...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e15.png",
+                "options": [
+                    "Regular a velocidade atendendo às características do veículo, às condições da via e ao estado do condutor",
+                    "Circular nos limites máximos de velocidade das estradas",
+                    "Circular abaixo dos limites mínimos de velocidade",
+                    "Ficar em ponto morto nas descidas muito inclinadas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "A postura e o posicionamento correctos do condutor, devem:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e5.png",
+                "options": [
+                    "Proporcionar o alcance aos comandos do rádio e GPS.",
+                    "Proporcionar o alcance a todos os comandos e controlos, sem que o condutor tenha de se movimentar ou afastar do assento",
+                    " Proporcionar o uso folgado do cinto de segurança."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "A condução defensiva é...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e18.png",
+                "options": [
+                    "A circulação de veículos e aniamsi na via pública",
+                    "A movimentação e imobilização de veículos, pessoas e animais nas vias de comunicação rodoviária",
+                    "A forma ponderada como o indivíduo conduz um veículo automóvel, de mode a evitar acidentes"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O que influencia a distância de reacção?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e7.png",
+                "options": [
+                    "Estado do veículo e condições ambientais.",
+                    "Velocidade e estado da via.",
+                    "Tempo de reacção e velocidade.",
+                    "Condições do condutor e distância de travagem."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "8. Quando um veículo acelera a direito (longitudinalmente):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e8.png",
+                "options": [
+                    "O peso é em parte transferido para o eixo traseiro, devido à inércia",
+                    "O peso é em parte transferido para o eixo dianteiro, devido à inércia.",
+                    "O peso é em parte transferido para o eixo traseiro, devido à força centrifuga.",
+                    "O peso não é transferido nem para a frente nem para trás devido à suspensão do veículo."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Quem exceder de 30 Km/h a 60 Km/h de velocidade (automóveis ligeiros e motociclos) os limites, fora das localidades é punido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e9.png",
+                "options": [
+                    "Com multa de 3.000,00 Mt e contravenção média.",
+                    "Com multa de 2.000,00 Mt e contravenção leve.",
+                    "Com multa de 2.000,00 Mt e contravenção média",
+                    "Com multa de 2.000,00 Mt e contravenção grave."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Considera-se condução defensiva:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e10.png",
+                "options": [
+                    "Não ultrapassar os 30Km em zona urbana.",
+                    "Não efectuar manobras que o possam colocar em perigo, independentemente dos outros condutores.",
+                    "Ajustar a velocidade e a trajetória de forma a evitar acidentes. ",
+                    "Circular sempre a 40 Km por hora para evitar ser surpreendido por algum perigo."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 11,
+                "title": "A ingestão de pequenas quantidades de bebidas alcoólicas, pode prejudicar a capacidade de condução?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e11.png",
+                "options": [
+                    "Não, pequenas quantidades são completamente inofensivas.",
+                    "Sim, pois podem levar à sobrevalorização da capacidade de condução.",
+                    "Não, se forem ingeridas durante a refeição e com água.",
+                    "Sim, mas só em condutores pouco habituados a beber."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Pode ter consequências num acidente o facto de não levar o cinto de segurança bem colocado?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e19.png",
+                "options": [
+                    "Não, se o veículo estiver equipado com airbag",
+                    "Não, o cinto é sempre eficaz",
+                    "Sim, porque pode provocar ferimentos graves",
+                    "Sim, por isso o seu uso não é obrigatório"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Quais os procedimentos que o condutor deve adoptar antes de iniciar uma ultrapassagem?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e21.png",
+                "options": [
+                  "Deve certificar-se de que a pode fazer sem perigo e sinalizar a manobra aos outros condutores",
+                  "Deve observar apenas o espelho esquerdo",
+                  "Deve execeder os limtes de velocidade estabelecidos para poder terminar rapidamete a manobra",
+                  "Apenas deve sinalizar a sua intenção, já que as luzes indicadoras de direcção lhe dão prioridade para realizar a manobra"
+                ],
+                "correctOptionIndex": 0
+              },
+            {
+                "id": 14,
+                "title": "14. Conduzir em condições atmosféricas adversas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e14.png",
+                "options": [
+                    "Afecta a distância de travagem.",
+                    "Afecta a taxa de alcoolemia.",
+                    "Reduz a fadiga."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": " Só pode ser ordenada a suspensão do trânsito por:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e15.png",
+                "options": [
+                    "Motivos de segurança, de emergência grave ou de obras, ou com o fim de realizar a conservação dos pavimentos, instalações e obras de arte.",
+                    "Ser feriado e haver festejos.",
+                    "Motivos de segurança, de emergência grave ou de obras, ou com o fim de promover produtos e marcas de automóveis.",
+                    "Ser fim de semana."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "A regulamentação do trânsito no interior das localidades, compete...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e23.png",
+                "options": [
+                  "Às Delegações Provincias do INNATER",
+                  "Aos Corpos Administrativos ou aos Conselhos Municipais",
+                  "À ENE",
+                  "À Policia de Trânsito"
+                ],
+                "correctOptionIndex": 1
+              },
+              {
+                "id": 17,
+                "title": "A marca rodoviária de cor amarela, indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame4/e24.png",
+                "options": [
+                  "Obriga todos os veículos a parar no cruzamento",
+                  "Proíbe todos os veículos de parar antes do cruzamento",
+                  "Reforça a regra que impede a imobilização de veículos no centro da intersecção"
+                ],
+                "correctOptionIndex": 2
+              },
+            {
+                "id": 18,
+                "title": "Nas estradas nacionais, a suspensão do trânsito deve ser solicitada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e18.png",
+                "options": [
+                    "Ao INATTER e nas estradas locais, aos conselhos municipais.",
+                    "À polícia de segurança pública e nas estradas locais, aos conselhos municipais.",
+                    "A ANE e, nas estradas locais, aos conselhos municipais.",
+                    "Ao Ministério dos transportes e nas estradas locais, aos conselhos municipais."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Só é permitido fazer marcha atrás:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e19.png",
+                "options": [
+                    "Como manobra auxiliar ou de recurso e deve efectuar-se o mais possível à direita, em local de boa visibilidade e onde não prejudique o trânsito.",
+                    "Como manobra auxiliar ou de recurso e deve efectuar-se o mais possivel à esquerda, em local de boa visibilidade e onde não prejudique o trânsito.",
+                    "Como manobra auxiliar ou de recurso e deve efectuar-se o mais possível junto ao eixo da via, em local de boa visibilidade e onde não prejudique o trânsito.",
+                    "Como manobra auxiliar ou de recurso e deve efectuar-se o mais possível à esquerda, em local de fraca visibilidade e onde não prejudique o trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "Porque lado o trânsito de veículos ou de animais é feito:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e20.png",
+                "options": [
+                    "Pela direita das faixas de rodagem e o mais próximo possível das bermas ou passeios mas a uma distância destes que permita evitar qualquer acidente.",
+                    "Pela esquerda das faixas de rodagem e o mais longe possível das bermas ou passeios mas a uma distância destes que permita evitar qualquer acidente.",
+                    "Pela esquerda das faixas de rodagem e o mais próximo possível das bermas ou passeios mas a uma distância destes que permita evitar qualquer acidente.",
+                    "Pela direita das faixas de rodagem e o mais próximo possível das bermas ou passeios mas a uma distância destes que não permita evitar qualquer acidente."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "21. Este sinal significa:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e21.png",
+                "options": [
+                    "Raquetas e bandeirola de sinalização.",
+                    "Proibido passar.",
+                    "Obrigatório parar.",
+                    "Homens na via a trabalhar."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Os condutores de veículos ou animais que pretendam mudar de direcção para à direita, devem:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e22.png",
+                "options": [
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a esquerda à parte central do cruzamento ou entroncamento. ",
+                    "Aproximar-se com a devida antecedência da berma da via e efectuar a manobra de modo a dar a esquerda a parte central do cruzamento ou entroncamento.",
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a direita à parte central do cruzamento ou entroncamento.",
+                    "Aproximar-se com a devida antecedência da berma da via e efectuar a manobra de modo a dar a direita à parte central do cruzamento ou entroncamento."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Os condutores de veículos ou animais que pretendam mudar de direcção para à direita, devem:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e23.png",
+                "options": [
+                    "Aproximar-se com a devida antecedência da berma da via e efectuar a manobra de modo a dar a esquerda à parte central do cruzamento ou entroncamento.",
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a direita à parte central do cruzamento ou entroncamento.",
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a esquerda à parte central do cruzamento ou entroncamento. ",
+                    "Aproximar-se com a devida antecedência da berma da via e efectuar a manobra de modo a dar a direita à parte central do cruzamento ou entroncamento."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 24,
+                "title": "O que deve ser ajustado antes de iniciar a marcha?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e24.png",
+                "options": [
+                    "De forma folgada o cinto de segurança.",
+                    "A distância do assento aos pedais, a inclinação das costas do banco e o encosto de cabeça. ",
+                    "O encosto de cabeça e o cinto de segurança."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 25,
+                "title": "Depois de ter tomado bebidas alcoólicas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame20/e25.png",
+                "options": [
+                    "O álcool entra directamente no sistema urinário.",
+                    "O álcool demora duas horas a entrar no sistema circulatório.",
+                    " O álcool entra rapidamente no sistema circulatório."
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]
