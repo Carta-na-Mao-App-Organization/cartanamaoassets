@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "A que grupo pertence o sinal triângular?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e1.png",
+                "options": [
+                    "Sinais temporários de perigo.",
+                    "Sinais temporários de perigo.",
+                    "Sinais temporários de proibição"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Em situações de chuva forte:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e2.png",
+                "options": [
+                    "Aumenta a probabilidade de aguaplanagem (hidroplanagem)",
+                    "Reduz a probabilidade de aquaplanagem (hidroplanagem).",
+                    "Reduz a probabilidade de aquaplanagem (hidroplanagem), sobretudo a velocidade moderada."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 3,
+                "title": "A definição de estacionamento é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e3.png",
+                "options": [
+                    "Imobilização de um veículo que constitua paragem e que seja motivada por circunstâncias próprias da circulação.",
+                    "Imobilização de um veículo que não constitua paragem e que seja motivada por circunstâncias próprias da circulação",
+                    "Imobilização de um veículo que constitua paragem e que seja motivada por circunstâncias de excesso de tráfego.",
+                    "Imobilização de um veículo que não constitua paragem e que não seja motivada por circunstâncias próprias da circulação."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 4,
+                "title": "Os peões podem transitar pela faixa de rodagem nesta estrada?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e4.png",
+                "options": [
+                    "Não, nesta estrada não podem transitar, já que não tem bermas.",
+                    "Sim, com prudência e por forma a não prejudicar o trânsito de veículos",
+                    "Sim e devem fazê-lo pela esquerda da faixa de rodagem, em relação ao seu sentido de marcha.",
+                    "Sim, mais só quando necessitem atravessar."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Os condutorés não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e5.png",
+                "options": [
+                    "Automóveis ligeiros de passageiros e mistos sem reboque dentro das localidades 60, fora das localidades 120.",
+                    "Automóveis ligeiros de passageiros e mistos sem reboque dentro das localidades 50, fora das localidades 120.",
+                    "Automóveis ligeiros de passageiros e mistos sem reboque dentro das localidades 60, fora das localidades 100.",
+                    "Automóveis ligeiros de passageiros e mistos sem reboque dentro das localidades 50, fora das localidades 1"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "Que veículos devem ter o seguro de responsabilidade civil para transitar na via pública?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e6.png",
+                "options": [
+                    "Todos os veículos.",
+                    "Só os ciclomotores.",
+                    "Apenas os veículos automóveis.",
+                    "Os veículos a motor."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 7,
+                "title": "É necessário verificar o nível do líquido de travão com frequência?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e7.png",
+                "options": [
+                    "Sim e deve ser substituído dentro do período indicado pelo fabricante.",
+                    "Sim, mas não precisa de ser substituído.",
+                    "Não, porque não se desgasta com o uso.",
+                    "Sim, para juntar óleo do motor em caso de necessidade."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 8,
+                "title": "Para os condutores de transporte de serviço público ou de carga perigosa, quando em exercício, a taxa de álcool deve ser de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e8.png",
+                "options": [
+                    "0.3 mg/l.",
+                    "0.0 mg/l",
+                    "0.6 mg/l."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "Em especial à noite, com nevoeiro (cacimba), as luzes de estrada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e9.png",
+                "options": [
+                    "Devem ser evitadas porque reflectem-se no nevoeiro impedindo a visibilidade a maior distância.",
+                    "Devem ser usadas porque permitem uma maior visibilidade a maior distância.",
+                    "Devem ser evitadas porque permitem uma maior visibilidade a maior distância.",
+                    "São as mais aconselháveis para garantir alguma visibilidade."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e10.png",
+                "options": [
+                    "Passagem de peões.",
+                    "Pista obrigatória para peões.",
+                    "Passagem desnivelada para peões."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e11.png",
+                "options": [
+                    "A presença de máquinas na via.",
+                    "Passagem de nível.",
+                    "Passagem de um veículo automóvel de cada vez."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "A distância de reacção é influenciada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e12.png",
+                "options": [
+                    "Pelo tempo dividido pela velocidade.",
+                    "Pelo somatório do tempo mais a velocidade.",
+                    "Principalmente de factores externos ao condutor.",
+                    "Pelo tempo multiplicado pela velocidade"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 13,
+                "title": "Quando existe um forte vento lateral corremos o perigo de sermos desviados da nossa trajectória. Nestas circunstâncias a melhor solução é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e13.png",
+                "options": [
+                    "Circular ao lado de um veículo pesado, se for possivel.",
+                    "Acelerar mais para vencer a força do vento.",
+                    "Moderar a velocidade e ajustar-nos ás circunstâncias.",
+                    "Parar o veículo e aguardar até que o vento passe."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e14.png",
+                "options": [
+                    "Área reservada para veículos de dimensões normais",
+                    "Área reservada para veículos de pesos anormais.",
+                    "Area reservada para veículos de comprimentos anormais.",
+                    "Área reservada para veículos de dimensões anormais."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 15,
+                "title": "A definição de lotação é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e15.png",
+                "options": [
+                    "Número de passageiros que o veículo pode transportar, não incluindo o condutor.",
+                    "Número de lugares que o veículo tem, incluindo o condutor.",
+                    "Número de passageiros que o veículo consiga transportar, incluindo a condutor.",
+                    "Número de lugares que o veículo tem, não incluindo o condutor."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "O agente regulador de trânsito que aparece na fotografia, manda:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e16.png",
+                "options": [
+                    "Avançar o tráfego que venha da esquerda.",
+                    "Parar o tráfego que venha da direita.",
+                    "Avançar o tráfego que venha da diraita."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "Se pretender inverter o sentido de marcha, deve ter em conta:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e17.png",
+                "options": [
+                    "Que só é permitido fazê-lo nas rotundas.",
+                    "Que a manobra deve ser feita em local e de forma a não prejudicar o trânsito.",
+                    "Que é proibido fazê-lo em todos os cruzamentos e entroncamentos.",
+                    "Que é proibido fazê-lo dentro das localidades"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "Em cada situação, a decisão que tomo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e18.png",
+                "options": [
+                    "Depende exclusivamente da sinalização que encontro no local.",
+                    "É consequência unicamente da intensidade do trânsito.",
+                    "Não é influenciada pelo estado físico em que me encontra.",
+                    "É sempre influenciada pela previsão que faço."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 19,
+                "title": "São evitáveis os acidentes de viação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e19.png",
+                "options": [
+                    "Não, porque os acidentes ocorrem por acaso.",
+                    "Sim, podemos aprender a evitá-los e a reduzir as suas consequências.",
+                    "Sim, mas só se o estado das estradas melhorar.",
+                    "Sim, excepto os causados pelo mau estado dos pneus."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "É permitido que uma criança de 6 anos viaje no banco da frente de um automóvel?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e20.png",
+                "options": [
+                    "Não, em nenhum caso.",
+                    "Sim, se não tiver bancos ou cintos de segurança na retaguarda.",
+                    "Sim, mesmo que não utilize cinto de segurança.",
+                    "Sim, sempre que utilize o cinto de segurança."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "A distância de segurança, é um factor a considerar:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e21.png",
+                "options": [
+                    "Apenas em condução urbana, devido à intensidade do trânsito.",
+                    "Nas estradas rurais pela diminuição dos limites de velocidade.",
+                    "Em qualquer situação."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 22,
+                "title": "Uma mulher grávida, é obrigada a usar o cinto de segurança?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e22.png",
+                "options": [
+                    "Não, porque é prejudicial para a criança.",
+                    "Não é obrigatório, mas é aconselhável.",
+                    "Sim, mas apenas fora das cidades.",
+                    "Sim e é muito importante que esteja bem colocado porque senão, tanto ela como a criança, podem sofrer lesões graves em caso de acidente."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 23,
+                "title": "Pode uma criança com idade inferior a 3 anos viajar no banco da frente do automovel?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e23.png",
+                "options": [
+                    "Sim, sempre que utilize o cinto de segurança",
+                    "Não, em nenhum caso",
+                    "Sim, quando o automóvel não tenha nenhum cinto de segurança.",
+                    "Sim, utilizando um sistema de retenção virado para a retaguarda e com a almofada de ar frontal (alrbag) do lado do passageiro desactivado."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 24,
+                "title": "Conduzir sob influência de álcool, sob efeitos de substâncias legalmente consideradas como estupefacientes ou psicotrópicas, constitui contravenção:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e24.png",
+                "options": [
+                    "Leve.",
+                    "Média.",
+                    "Grave."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Um condutor que expressa o descontentamento através de gestos ou palavras agressivas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame24/e25.png",
+                "options": [
+                    "Está apenas, e bem, a demonstrar o seu descontentamento com o comportamento dos outros.",
+                    "Manifesta agressividade e falta de civismo.",
+                    "Está a contribuir para mais e melhor cidadania no transito.",
+                    "Está a exercer um direito que lhe assiste perante a ignorância dos outros condutores."
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]
