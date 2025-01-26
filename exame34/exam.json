@@ -1,0 +1,297 @@
+[
+    {
+        "id": 34,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e1.png",
+                "options": [
+                    "A existência de uma berma",
+                    "A existência de um terreno falso à direita",
+                    "A existência de uma berma baixa à direita"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "Pode transportar uma criança neste motociclo",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e2.png",
+                "options": [
+                    "Sim, se tem pelo menos 3 anos e leva capacete devidamente ajustado e apertado",
+                    "Sim, num assento adicional",
+                    "Sim, se tem pelo menos 7 anos e leva o capacete devidamente  ajustado e apertado",
+                    "Não, nunca"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e3.png",
+                "options": [
+                    "Máquinas",
+                    "Zona de máquinas de agricultura",
+                    "Zona de máquinas de escavação",
+                    "Pista obrigatória para máquinas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "Dentro das localidades, durante a noite",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e4.png",
+                "options": [
+                    "Não é obrigatório a substituição dos sinais sonoros pelos sinais luminosos",
+                    "É obrigatório a substituição dos sinais sonoros pelo sinais luminosos",
+                    "É obrigatório a substituição dos sinais sonoros pelos sinais gestuais",
+                    "É escolha do condutor a substituição dos sinais sonoros pelos sinais gestuais"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "A capacidade de o condutor prever e antecipar aumenta:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e5.png",
+                "options": [
+                    "Com a categoria do veículo",
+                    "Com a experiência",
+                    "Com a velocidade do veículo",
+                    "Com a idade do condutor"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "O controlo dinâmico do veículo é uma das tarefas da condução e é...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e6.png",
+                "options": [
+                    "Efectuado através da acelaração e travagem do veículo",
+                    "Efectuado através do sistema de direcção",
+                    "Efectuado através da definição da sua velocidade e da sua trajectória"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e7.png",
+                "options": [
+                    "Entrocamento transversal à esquerda",
+                    "Entrocamento colateral à esquerda",
+                    "Entrocamento em forma de y ou bifurcação",
+                    "Estrada convergente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Sempre que o veículo esteja parado ou estacionado do lado esquerdo da faixa de rodagem...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e8.png",
+                "options": [
+                    "Os passageiros devem entrar e sair pelo lado direito do veículo",
+                    "Os passageiros devem entrar e sair pelo lado esquerdo do veículo",
+                    "Os passageiros não podem sair do veículo",
+                    "O condutor deve entrar e sair pelo lado esquerdo do veículo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "Que deve fazer perante um ferido que tenha uma forte hemorragia na perna ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e9.png",
+                "options": [
+                    "Por pomada na ferida",
+                    "Deve sempre fazer um torniquete na perna lesionado",
+                    "Cobrir a ferida e levantar-lhe a perna para reduzir a hemorragia"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e10.png",
+                "options": [
+                    "Ponte estreita",
+                    "Passagem estreita",
+                    "Entrocamentos sucessivos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "O condutor deve ter em atenção que, se tem problemas de sono...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e11.png",
+                "options": [
+                    "Não se encontra em perfeitas condições para conduzir",
+                    "É aconselhável tomar bastantes susbtâncias estimulantes para ficar acordado",
+                    "Deve dormir mais horas para conduzir",
+                    "O seu estado não tem influência na condução"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 12,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e12.png",
+                "options": [
+                    "Trânsito proibido a peões, animais e veículos automóveis",
+                    "Trânsito proibido a animais e veículos não automóveis",
+                    "Trânsito proibido a peões, animais e veículos não automóveis"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Os acidentes devido ao sono acontecem...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e13.png",
+                "options": [
+                    "Somente quando o condutor fica a dormir prfundamente",
+                    "Sempre de noite",
+                    "Também antes do condutor adormecer",
+                    "Quando o condutor é inexperiente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O condutor, pode utilizar aparelhos radiotelefónicos durante a marcha do veículo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e14.png",
+                "options": [
+                    "Sim, já que não prejudica o exercício da condução com segurança",
+                    "Sim, mas apenas para mensagens de texto",
+                    "Apenas se for dotado de um auricular ou de microfone com sistema de alta voz, cuja utilização não implique um manuseamento continuado",
+                    "Não, é sempre proibido ao condutor utilizar aparelhos radiotelefónicos"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 15,
+                "title": "A definição de inversão do sentido de marcha é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e15.png",
+                "options": [
+                    "Manobra através da qual o condutor coloca o veículo em sentod oposto, na mesma direcção",
+                    "Manobra através da qual o condutor coloca o veículo no mesmo sentido",
+                    "Manobra através da qual o condutor coloca o veículo no mesmo sentido, em direcção oposta",
+                    "Manobra através da qual o condutor coloca o veículo no mesmo sentido e na mesma direcção"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "O que indica o sinal complementar de perigo",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e16.png",
+                "options": [
+                    "Baia direccional para a direita",
+                    "Baia indicadora de direcção à direita",
+                    "Baia direccional para a esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "O que significa responsabilidade moral ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e17.png",
+                "options": [
+                    "Responder perante o Tribunal",
+                    "Prestar contas perante os membros da sociedade",
+                    "Responder pelos seus próprios actos"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e18.png",
+                "options": [
+                    "Estacionamento limitado",
+                    "Estacionamento proibido",
+                    "Estacionamento condicionado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Que veículos podem conduzir as pessoas que só possuam a carta de condução de categoria B",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e19.png",
+                "options": [
+                    "Todos",
+                    "Automóveis ligeiros",
+                    "Automóveis pesados de mercadorias ou de passageiros",
+                    "Motociclos com ou sem carro"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "O que deve fazer o condutor para prevenir os acidentes?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e20.png",
+                "options": [
+                    "Conduzir alcoolizado",
+                    "Ignorar os sinais de trânsito",
+                    "Praticar uma condução defensiva"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "A carga mal acondicionado pode contribuir para:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e21.png",
+                "options": [
+                    "Reduzir a visibilidade do condutor",
+                    "Aumentar o equilíbrio do veículo",
+                    "Reduzir o tempo de reacção",
+                    "Aumentar a estabilidade facilitando a sua condução"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "A entrada e saída de passageiros deve fazer-se",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e22.png",
+                "options": [
+                    "Pelo lado direito ou esquerdo indistintamente",
+                    "Pelo lado permitido para a paragem",
+                    "Sempre pelo lado esquerdo",
+                    "Sempre o condutor pela direita e os restantes ocupantes pela esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "As baixas temperatuas que normalmente acompanham a existência de nevoeiro, podem provocar ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e23.png",
+                "options": [
+                    "O embaciamento dos vidros e consequente aumento da visibilidade para o exterior",
+                    "Ser mais fácil limpar os vidros já que estes estão molhados",
+                    "O embaciamento dos vidros e consequente diminuição da visibilidade para o exterior"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 24,
+                "title": "Os jovens, têm mais possibilidades de ter acidentes rodoviários?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e24.png",
+                "options": [
+                    "Sim, normalmente fazerm uma avaliação incorreta dos riscos",
+                    "Sim, devido à falta dos reflexos",
+                    "Sim, a sua visão é mais reduzida",
+                    "Não"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 25,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e25.png",
+                "options": [
+                    "Sinalização de itinerário (intersecção de nível)",
+                    "Pré-sinalização de itinerário (intersecção de nível)",
+                    "Sinalização de via interrompida",
+                    "Sinalização de itinerário obrigatório"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]

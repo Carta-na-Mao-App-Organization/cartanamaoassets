@@ -1,0 +1,296 @@
+[
+    {
+        "id": 33,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Não sendo o homem um ser isolado, mas sim que vive em contacto com pessoas iguais a sí, os deveres para com os seus semelhantes podem ser:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e1.png",
+                "options": [
+                    "De respeito e de liberdade",
+                    "De dignidade e de integridade física",
+                    "De justiça e de caridade"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "O que indica o sinal luminoso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e2.png",
+                "options": [
+                    "Acesso ou passagem autorizado",
+                    "Acesso ou passagem interdito",
+                    "Acesso ou passagem condicionado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "Que indica a marca rodoviária",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e3.png",
+                "options": [
+                    "Passagem para peões",
+                    "Passagem para ciclistas",
+                    "Linha de cedência de prioridade"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "A ingestão de bebidas alcoólicas, mesmo que em pequenas quantidades, pode ter como consequência:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e4.png",
+                "options": [
+                    "Diminuição do tempo de reação e da distância de paragem",
+                    "Aumento do tempo de reacção e da distância de paragem",
+                    "Aumento do tempo de reação, mas não da distância de paragem",
+                    "Maior concentração na tarefa da condução"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Os automóveis ligeiros de passageiros, deveme estar equipados com sinais de pré-sinalização de perigo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e5.png",
+                "options": [
+                    "Sim, um colete reflector e um triângulo de pré-sinalização de perigo",
+                    "Não",
+                    "Sim, dois triangulos de pré-sinalização de perigo e um colete reflector",
+                    "Sim, apenas são obrigatórios dois triangulso de pré-sinalização de perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "O condutor do veículo amarelo ao mudar de direcção para a direita, a quem deve ceder passagem ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e6.png",
+                "options": [
+                    "Apenas os condutores que se apresentem pela direita",
+                    "Aos que circulam em sentido contrário e pretendem seguir em frente ou mudar de direcção para esquerda",
+                    "A todos os condutores que circulem pela via transversal",
+                    "Só aos condutores que circulam em sentido contrário e sigam em frente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Uma criança de 8 anos, como deve viajar num automóvel equipado com cintos de segurança em todos os lugares?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e7.png",
+                "options": [
+                    "No banco da frente, com um sistema de retenção homologado e adaptado ao seu tamanho e peso",
+                    "No banco da retaguarda, com um sistema de retenção homologado e adaptado ao seu tamanho e peso",
+                    "É indiferente, sempre que utilize um sistema de retenção homologado e adaptado ao seu tamanho e peso",
+                    "Basta utilizar o cinto de segurança do banco da retaguarda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "Quando o condutor tem uma distracção...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e8.png",
+                "options": [
+                    "Demora mais tempo em reagir",
+                    "Aumenta incoscientemente a velocidade do veículo",
+                    "Deve avisar com as luzes de perigo",
+                    "Demora menos tempo em obter as informações necessárias para conduzir com segurança"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e9.png",
+                "options": [
+                    "Pré-sinalização de via sem saída à direita",
+                    "Estrada sem saída",
+                    "Pré-sinalização de via sem saída à esquerda"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "De que modo deve verificar o nível de óleo do motor?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e10.png",
+                "options": [
+                    "Com o motor quente",
+                    "Com o mtoro parado e frio",
+                    "Com o motor ligado"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "Se pretender inverter o sentido de marcha, deve ter em conta...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e11.png",
+                "options": [
+                    "Que é só permitod fazê-lo nas rotundas",
+                    "Que é proibido fazê log em todos os cruzamentos e entrocamentos",
+                    "Que a manobra deve ser feita em local e de forma a não prejudicar o trânsito",
+                    "Que é proibido fazê-lo dentro das localidades"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e12.png",
+                "options": [
+                    "Fim da fila de trânsito à esquerda",
+                    "Fim da fila de trânsito à direita",
+                    "Convergência de filas de trânsito"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Diante do sinal, é probido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e13.png",
+                "options": [
+                    "Mudar de direcção para à esquerda",
+                    "Inverter o sentido de marcha",
+                    "Mudar de direcção para à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "O uso de cinto de segurança nos assentos traseiros...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e14.png",
+                "options": [
+                    "Podem salvar a vida aos seus ocupanttes e impedem que eles causem lesões graves aos outros passageiros",
+                    "Só são obrigatórias fora das localidades",
+                    "São de exclusiva a responsabilidade dos ocupantes, já que num acidente seriam os únicos afectados",
+                    "Não é obrigatório, mas é aconselhável"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "Durante o exame para obter a carta de condução, a responsabildiade pelas contravenções praticadas, é do:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e15.png",
+                "options": [
+                    "Instrutor",
+                    "Examinador",
+                    "Examinando"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 16,
+                "title": "Se o condutor que me precede assinala a manobra de mudança de direcção para a direita, posso ultrapassar?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e16.png",
+                "options": [
+                    "Sim, pela direita",
+                    "Sim, pela esquerda, certificadno-se que o pode fazer sem perigo de acidente",
+                    "Não",
+                    "Sim, pela direita ou pela esquerda, sempre que o veículo não esteja em movimento"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e17.png",
+                "options": [
+                    "Sentidos obrigatórios possíveis",
+                    "Sentido obrigatório para à direita",
+                    "Sentido obrigatório giratório"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Qual é a velocidade instantânea que não devem exceder os condutores de ciclomotores e quadriciclos dentro das localidades",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e18.png",
+                "options": [
+                    "45 km/h",
+                    "40 km/h",
+                    "50 km/h",
+                    "60 km/h"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "O feixe luminoso emitido pelas luzes de cruzamento(médios), deve projectar-se no solo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e19.png",
+                "options": [
+                    "E iluminá-lo eficazmente, numa distância não superior a 30 metros",
+                    "E no mínimo, ilumina-lo a 100 metros",
+                    "E iluminá-lo eficazmnete, numa distância não superior a 50 metros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 20,
+                "title": "Que efeitos tem a fadiga na condução?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e20.png",
+                "options": [
+                    "Reduz o tempo de reacção do condutor",
+                    "Diminui a sensibilidade ao encandeamento",
+                    "Reduz a capacidade de concentração e a segurança",
+                    "Melhora a atenção do condutor"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "A condução urbana, caracteriza-se essencialmente",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e21.png",
+                "options": [
+                    "Por uma grande intensidade de trânsito",
+                    "Pela abundância de sinais luminosos",
+                    "Pela ausência de regras de trânsito",
+                    "Pela pouca presença de peões"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Pode transportar bebidas alcoólicas na parte do veículo reservada aos passageiros?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e22.png",
+                "options": [
+                    "Sim, se o condutor não estiver sob influência de álcool",
+                    "Sim, sempre que o condutor não tome nada de álcool",
+                    "Não, já que é proibido o porte e transporte de bebidas alcoólicas nesta parte do veículo",
+                    "Sim"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e23.png",
+                "options": [
+                    "Barricada",
+                    "Baia limitadora de altura",
+                    "Baia indicadora de separador físico"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "O que se entende por primeiros socorros?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e24.png",
+                "options": [
+                    "É a chegada rápida do pessoal especializado ao local da ocorrência do sinistro",
+                    "É o transporte adequado do sinistro ou doente ao posto médico",
+                    "São os cuidados prestados auma pessoa que se fere ou adoecede repente, para mantê-la viva e impedir o agravamento da situação",
+                    "São os meios humanos e materiais utilizados para a remoção dos acidentados"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Para manter a segurança do veículo, devem ser revistos periodicamente:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame34/e25.png",
+                "options": [
+                    "As luzes, espelhos e o sistema de escape",
+                    "Os pneus, amortecedores e travões",
+                    "A bateria, o filtro do óleo e o do ar",
+                    "O sistema de som"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]
