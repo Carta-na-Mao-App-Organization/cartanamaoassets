@@ -1,0 +1,300 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Em acidente de viação com vítima, deixar de prestar ou providenciar socoroo, constitui contravenção:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e1.png",
+                "options": [
+                    "Leve",
+                    "Média",
+                    "Grave"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e2.png",
+                "options": [
+                    "Fim da fila de trânsito à esquerda",
+                    "Fim da fila de trânsito à direita",
+                    "Convergência de filas de trânsito"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "Nos locais onde é proibido, a inversão do sentido de marcha",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e3.png",
+                "options": [
+                    "É contravenção punida com a multa de 1.000,00 MT",
+                    "É contravenção punida com a multa de 500,00 MT",
+                    "É contravenção punida com a multa de 2.0000 MT",
+                    "Não é considerada contravenção"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "O que é a força centrífuga",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e4.png",
+                "options": [
+                    "É a força aparente que empurra os veículos para o interior das curvas",
+                    "É a força aparente que empurra os veículos para o exterior das curvas",
+                    "É a força aparente que trava os veículos nas curvas",
+                    "Uma fornça que só ocorre quando o veículo vai em linha recta"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Para conduzir com segurança, deve moderar especialmente a velocidade...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e5.png",
+                "options": [
+                    "Só nas pontes, túneis e passagens de nível",
+                    "Nos cruzamentos e entrocamentos nos que tenha prioridade de passagem",
+                    "Nas curvas, lombas e outros locais de visibilidade reduzida",
+                    "Nos locais assinalados com sinais de obrigação"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "Na condução nocturna, os hábitos do condutor aumentam ou não a fadiga",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e6.png",
+                "options": [
+                    "Factores como alimentação, seu tipo, quantidade e frequência não acentuam a fadiga",
+                    "Sim, factores como alimentação, seu tipo, quantidade e frequência",
+                    "Apenas a ingestão de bebidas alcoólicas acentuam a fadiga",
+                    "Os hábitos do condutor não aumentam a fadiga"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e7.png",
+                "options": [
+                    "Superificie de via público especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem",
+                    "Superfice de via pública não especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem",
+                    "Superficie de via pública destinada ao trânsito de veículos e que ladeia a faixa de rodagem",
+                    "Superfice de via pública não especialmente destinada ao trânsito de automóveis e que ladeia a faixa de rodagem"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e8.png",
+                "options": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Quando os pneus têm uma pressão incorreta",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e9.png",
+                "options": [
+                    "Desgastam-se mais e correm maior risco de rebentar",
+                    "Desgastam-se menos e têm menos risco de rebentar",
+                    "Consome-se menos combustível",
+                    "Melhora a estabilidade do veículo e ao seu conforto"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 10,
+                "title": "O usos do capacete para proteger a cabeça...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e10.png",
+                "options": [
+                    "É recomendável para os condutores e passageiros de motociclos, mas não é obrigatório",
+                    "É obrigatório para os condutores e passageiros de motociclos e ciclomotores",
+                    "Só é obrigatório para os condutores e passageiros de motociclos",
+                    "Não é eficaz em caso de acidente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e11.png",
+                "options": [
+                    "Zona onde só podem passar três carros de cada vez",
+                    "Zona de estacionamento em fila",
+                    "Congestionamento de tráfego",
+                    "Zona de paragem em fila"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "Que indica a marca rodiária",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e12.png",
+                "options": [
+                    "Linha de paragem obrigatório com stop",
+                    "Linha de paragem obrigatório",
+                    "Linha de cedência de prioridade com simbolo triangular",
+                    ""
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e13.png",
+                "options": [
+                    "Trânsito proibido para todos veículos automóveis",
+                    "Proibição de ultrapassagem para motociclos simples",
+                    "Proibição de ultrapassagem para automóveis ligeiros"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "Qual é a validade que tem um carta de condução de categoria B?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e14.png",
+                "options": [
+                    "Cinco anos",
+                    "Dois anos",
+                    "Três anos",
+                    "Dez anos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "A recolha de informação é influênciada pela fadiga?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e15.png",
+                "options": [
+                    "Não",
+                    "Sim, mas apenas em condução urbana",
+                    "Sim, assim como influenciada toda a tarefa de condução",
+                    "Não, a menso que o condutor esteja muito cansado"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "Que deve fazer perante um ferido que tenha uma forte hemorragia na perna?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e16.png",
+                "options": [
+                    "Por pomada na ferida",
+                    "Cobrir a ferida e levantar-lhe a perna para reduzir a hemorragia",
+                    "Deve sempre fazer um torniquete na perna lesionada"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "Factores de risco serão:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e17.png",
+                "options": [
+                    "Todos os elementos exteriores a um veículo que possam provocar riscos na pintura",
+                    "Todas as marcas rodoviárias que contenham riscos",
+                    "Todos os factores que aumentem o risco de acidente",
+                    "Todos os factores extremos ao condutor"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Sempre que no mesmo sentido sejam possíveis duas ou mais fias de trânsito",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e18.png",
+                "options": [
+                    "O condutor deve circular pela via de trânsito mais à direita, podendo utilizar-se outra se não houver lugar naquela, e para ultrapassar ou mudar de direcção",
+                    "O condutor deve circular pela via de trânsito mais à esquerda, podendo utilizar-se outra se não houver lugar naquela, e para ultrapassar ou mudar de direcção",
+                    "O condutor deve circular pela via de trânsito mais à esquerda, podendo utilizar-se outra se não houver lugar naquela, e para estacionar",
+                    "O condutor deve circular pela via de trânsito mais à direita, podendo utilizar-se outra para ultrapassar ou mudar de direcção"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e19.png",
+                "options": [
+                    "Área reservada para autocarros e autocarros médios",
+                    "Parque de estacionamento para autocarros e autocarros médios",
+                    "Faixa reservada para qualquer tipo de autocarro de lado esquerdo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Pode uma criança com idade inferiro a 3 anos viajar no banco da frente do automóvel?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e20.png",
+                "options": [
+                    "Sim, sempre que utilize o cinto de segurança",
+                    "Não, em nenhum caso",
+                    "Sim, utilizando um sistema de retenção virado para a retaguarda e com a almofada de ar frontal (airbag) do lado do passageiro desactivdo",
+                    ""
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Pode conduzir um automóvel ligeiros com reboque com a carta de condução da catergoria B",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e21.png",
+                "options": [
+                    "Sim, desde que o peso bruto do reboque não exceda 750 kg",
+                    "Não, é necessária a da categoria C1E",
+                    "Sim, desde que o peso bruto do reboque não excede 3500 kg",
+                    "Não, é necessária a da categoria G"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 22,
+                "title": "O facto de conduzir de noite, deveter influência na velicidade a que segue?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e22.png",
+                "options": [
+                    "Nao, porque a utilização de luzes é obrigatória",
+                    "Sim, mas apenas dentro das localidades",
+                    "Sim",
+                    "Não, se conheço bem a estrada"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "Exploração perceptiva é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e23.png",
+                "options": [
+                    "Procedimentos do condutor para manter a trajectória do veículo controlado",
+                    "Procedimentos do condutor, peara recolhar do ambiente rodoviário, as informações importantes para tarefa de condução",
+                    "Procedimentos do condutor para realizar manobras mais rapidamente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "Como deve ser feita a carga e descarga de um veículo na via pública?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e24.png",
+                "options": [
+                    "Sempre pela retaguarda",
+                    "Sempre pela direita",
+                    "Pela retaguarda ou pelo lado da faixa de rodagem junto de qual o veículo esteja parado ou estacionado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Se estacionar o veículo na faixa de rodagem desde anoitecer até ao amanhecer, deve utilizar alguma vez",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame1/e25.png",
+                "options": [
+                    "Não, mesmo que seja num local sem iluminação",
+                    "Sim, as de presença (mínimos), se a ilumincação não permite reconhecer o veículo a 100 metros",
+                    "Sim, as de estrada (máximos)",
+                    "Sim, as de cruzamento (médios), se iluminação não permite reconhecer o veículo a 100 metros"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]

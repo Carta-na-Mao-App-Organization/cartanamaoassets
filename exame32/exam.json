@@ -1,0 +1,296 @@
+[
+    {
+        "id": 32,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Posso circular pela parte direita da faixa de rodagem numa via urbana com duplo sentido e uma faixa para cada sentido?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e1.png",
+                "options": [
+                    "Sim, na aproximação a um cruzamento em que pretenda mudar de direcção à direita",
+                    "Sim, em via urbana posso circular pela via da esquerda ou a da direita",
+                    "Sim, para ultrapassar",
+                    "Não"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e1.png",
+                "options": [
+                    "A presença de ponte móvel",
+                    "A presença de cancela motorizada ao centro",
+                    "A presença de entrocmaento oblíquo à esquerda"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 3,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame16/e9.png",
+                "options": [
+                    "Sim, se a viagem é longa",
+                    "Sim, porque há menos tráfego",
+                    "Não, porque o sono aparece mais facilmente",
+                    "Sim, viajar durante a noite é sempre mais seguro"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 4,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e4.png",
+                "options": [
+                    "Fim da fila de trânsito à esquerda",
+                    "Convergência de filas de trânsito",
+                    "Fim da fila de trânsito à direita"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Em situações de chuva forte:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e5.png",
+                "options": [
+                    "Aumenta a probabilidade de aquaplanagem (hidroplanagem)",
+                    "Reduz a probabilidade de aquaplanagem (hidroplagem)",
+                    "Reduz a probabilidade de aquaplanagem (hidroplanagem), sobretudo a velocidade modera"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e6.png",
+                "options": [
+                    "A - Parque de descanso; B - Parque de estacionamento para veículos do corpo diplomático",
+                    "A - Parque de estacionamento; B - Parque de estacionamento para veículos do corpo diplomático",
+                    "A - Parque de estacionamento: B - Parque de estacionamento para veículos do governo",
+                    "A - Parque de estacionamento: B - Parque de estacionamento para veículos do ministério"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Como medida de prevenção, quando o piso da via está molhada, deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e7.png",
+                "options": [
+                    "Parar",
+                    "Reduzir a velocidade",
+                    "Aumentar um pouco a velocidade para que a distância de paragem diminua",
+                    "Reduzir a distância de segurança"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e8.png",
+                "options": [
+                    "Via obrigatória para veículos de construção",
+                    "Via obrigatória para autocarros de excursão",
+                    "Via obrigatório para circulação de veículos de dimensões anormais"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "O que se entende por sanção",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e9.png",
+                "options": [
+                    "A reptição de valores positivos",
+                    "A repetição de valores negativos",
+                    "O prémio ou castigo anexo às acções humanas"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora)",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e10.png",
+                "options": [
+                    "Automóveis pesados de passageiros dentro das localidades 60, fora das localidades 100",
+                    "Automóveis pesados de passageiros dentro das localidades 50, fora das localidades 100",
+                    "Autom'veis pesados de passageiros dentro das localidades 60, fora das localidades 120",
+                    "Automóveis pesados de passageiros dentro das localidades 50, fora das localiadades 120"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e11.png",
+                "options": [
+                    "Queda de pedras à direita",
+                    "Quedra de pedras à esquerda",
+                    "Estrada com buracos na esquerda",
+                    "Estrada co, buracos na direita"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e12.png",
+                "options": [
+                    "Prioridade para quem circula à esquerda",
+                    "Prioridade para quem circula à direita",
+                    "Trânsito nos dois sentidos",
+                    "Prioridade temporária para quem circula à direita"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Um para-brisas, à noite com chuva, pode",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e13.png",
+                "options": [
+                    "Aumentar a capacidade de ver as alternativas de acção e aumentar o tempo de análise necessário à tomada de decisão",
+                    "Diminuir o tempo de reacção",
+                    "Diminuir a capacidade de ver as alternativas de acção a aumentar o tempo de análise necessária à tomada de decisão"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Os condutores não podem exceder as seguintes velocidades instantâneas (km/h)",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e14.png",
+                "options": [
+                    "Motociclos com carro, dentro das localidades 40, fora das localiadades 70",
+                    "Motociclos com carro, dentro das localidades 50, fora das localidades 70",
+                    "Motociclos com carro, dentro das localidades 50, fora das localidades 80",
+                    "Motociclos com carro, dentro das localidades 60, fora das localidades 90"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e15.png",
+                "options": [
+                    "Trabalhos na estrada",
+                    "Obras adjudicadas",
+                    "Obras incompletas",
+                    "Prudência porque o parque está em obras"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "As luzes devem ser usados, durante o nevoeiro (cacimba)",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e16.png",
+                "options": [
+                    "De dia ou de noite",
+                    "Só durante a noite",
+                    "Durante o dia, se o nevoeiro for muito denso",
+                    "De dia e de noite, principlamente as luzes de estrada"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "O que deve fazer quando um velocípede segue no mesmo sentido de trânsito?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e17.png",
+                "options": [
+                    "Utilizar os sinais sonoros",
+                    "Ultrapassá-lo a grande velocidade",
+                    "Ter em atenção a instabilidade desse veículo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e18.png",
+                "options": [
+                    "Trânsito proibido a veículos de peso total superior a 2 toneladas",
+                    "Trânsito proibido a veículos de peso por eixo supeior a 2 toneladas",
+                    "Trânsito probido a veículos de peso por eixo inferior a 2 toneladas"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "O agente regulador de trânsito, manda",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e19.png",
+                "options": [
+                    "Parar o tráfego o que venha da retaguarda e da frente",
+                    "Avançar o tráfego da esquerda",
+                    "Parar o tráfego que venha da retaguarda"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "O condutor está sujeito ao aparecimento de fadiga, quando circula com trânsito intenso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e20.png",
+                "options": [
+                    "Não está porque circula a velocidade reduzida",
+                    "Não está porque nesta situação pode desncansar devido à pouca velocidade do trânsito",
+                    "Está porque é uma situação de trânsito monótona o que provaca fadiga",
+                    "Está e para evitar a fadiga deve beber café e bebidas estimulantes"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Dentro das localidades os sinais sonoros, só podem usar usados",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e21.png",
+                "options": [
+                    "Em caso de manifesta necessidade, podendo ser proibidos nas zonas em que ordenamento do trânsito seja assegurado por agentes da autoridade ou por instrumentos de sinalização vertical",
+                    "Em caso de manifesta necessidade, podeno ser autorizados nas zonas quem que o ordenamento do trânsito seja assegurado por sinalização vertical",
+                    "Em caso de manifesta necessidade, podendo ser autorizados nas zonas em que o ordenamento do trânsito seja assegurado por sinalização horizontal",
+                    "Smpre durante a noite"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Depois de ter tomado bebidas alcoólicas",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e22.png",
+                "options": [
+                    "O álcool entra directamente no sistema urinário",
+                    "O álcool entra rapidamente no sistema circulatório",
+                    "O álcool demora duas horas a entrar no sistema circulatório"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "A definição de localidade é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e23.png",
+                "options": [
+                    "Zona com edificações cuos limites não são sinalizados",
+                    "Zona com edificações cujos limites são devidamente sinalizados",
+                    "Zona urbana cujos limites não são sinalizados",
+                    "Zona regional cujos limites são sinalizados com sinalizaçãi luminosa"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "O que indica o sinal luminoso?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e24.png",
+                "options": [
+                    "Acesso ou passagem autorizado",
+                    "Acesso ou passagem condicionado",
+                    "Acesso ou passagem interdito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 25,
+                "title": "Durante as ultrapassagens, a força do ar provocada pelos veículos pesados:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame33/e25.png",
+                "options": [
+                    "Afecta em especial os veículos pesados",
+                    "Afecta igulamente ambos os veículos, sobretudo no inicio da manobra",
+                    "Afecta em especial os veículos ligeiros e veículos de 2 rodas",
+                    "Não tem influência para os outros condutores"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]
