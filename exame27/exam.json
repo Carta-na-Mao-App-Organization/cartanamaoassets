@@ -1,0 +1,302 @@
+[
+    {
+        "id": 27,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Fumar enquanto conduz:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e1.png",
+                "options": [
+                    "É aconselhável, pois ajuda a manter a atenção.",
+                    "É é proibido.",
+                    "Pode afectar a atenção na condução.P",
+                    "Reduz a agressividade do condutor."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "Na via pública, a carga e descarga de um veículo deve ser feita:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e2.png",
+                "options": [
+                    "Sempre pela direita.",
+                    "Sempre pela retaguarda.",
+                    "Pela retaguarda ou pelo lado permitido para a paragem do veículo.",
+                    "Sempre pela esquerda."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "Que entende-se por consciência moral?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e3.png",
+                "options": [
+                    "A capacidade de o individuo interpretar os sinais de trânsito.",
+                    "A faculdade de a pessoa distinguir entre o bem e o mal, de julgar os seus actos e de adoptar uma determinada forma de conduta.",
+                    "A faculdade de permitir a passagem dos peões na mudança de direcção para a esquerda."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e4.png",
+                "options": [
+                    "Automóveis pesados de passageiros dentro das localidades 50, fora das localidades 100.",
+                    "Automóveis pesados de passageiros dentro das localidades 60, fora das localidades 100.",
+                    "Automóveis pesados de passageiros dentro das localidades 60, fora das localidades 120.",
+                    "Automóveis pesados de passageiros dentro das localidades 50, fora das localidades 120"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Os sinais sonoros:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e5.png",
+                "options": [
+                    "Não podem ser afinados ou reparados na via pública.",
+                    "Podem ser afinados ou reparados na via pública.",
+                    "Podem ser afinados ou reparados na via pública só durante a noite.",
+                    "Podem ser afinados ou reparados na via pública só durante o dia."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e6.png",
+                "options": [
+                    "Descida de inclinação acentuada.",
+                    "Subida de inclinação acentuada",
+                    "Descida de inclinação acentuada para camiões.",
+                    "Subida de inclinação acentuada para camiões."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e7.png",
+                "options": [
+                    "Pavimento escorregadio.",
+                    "Visibilidade reduzida.",
+                    "Inicio de estrada alcatroada."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "E necessário regular e ajustar o encosto de cabeça para a altura dos ocupantes?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e8.png",
+                "options": [
+                    "Não é necessário, porque é apenas um elemento de conforto.",
+                    "Sim, mas só nos bancos da frente.",
+                    "Sim, porque pode evitar lesões na zona do pescoço.",
+                    "Não, se o veículo tiver cintos de segurança."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e9.png",
+                "options": [
+                    "Descida de inclinação acentuada.",
+                    "Entroncamento obliquo à direita.",
+                    "Descida de inclinação acentuada ao longo da distância indicada."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "As pessoas que são encontradas a conduzir sem possuir carta de condução:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e10.png",
+                "options": [
+                    "São punidas com pena de prisão de três dias a seis meses e multa de 5000 Mt.",
+                    "São punidas apenas com uma multa de 500 Mt.",
+                    "São punidas com pena de prisão de um a trés dias e multa de 5000 Mt.",
+                    "Não podem ser punidas."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "Um dos elementos de segurança é a almofada de ar (airbag)?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e11.png",
+                "options": [
+                    "Não.",
+                    "Sim, de sogurança passiva.",
+                    "Sim, de segurança activa."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Os condutores de motociclos simples, fora das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e12.png",
+                "options": [
+                    "60 km/h,",
+                    "70 km/h.",
+                    "90 km/h.",
+                    "80 km/h."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "O condutor selecciona o acto motor a realizar em que momento?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e13.png",
+                "options": [
+                    "Quando recolhe a informação.",
+                    "Quando trata a informação.",
+                    "Quando age sobre o veículo.",
+                    "Quando detecta um perigo."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "As luzes de máximos, com nevoeiro (cacimba):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e14.png",
+                "options": [
+                    "Devem obrigatoriamente ser usadas.",
+                    "Devem ser evitadas, em especial à noite.",
+                    "Só devem ser usados à noite.",
+                    "So devem ser usados de dia."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "Se o condutor consome álcool, em que momento aumenta o risco de acidente?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e15.png",
+                "options": [
+                    "Antes de superar o limite legal permitido.",
+                    "Depois de superar o limite legal permitido.",
+                    "Só quando o consome com substâncias psicotrópicas.",
+                    "Só quando é tomado com medicamentos."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e16.png",
+                "options": [
+                    "Congestionamento de tráfego.",
+                    "Zona onde só podem passar três carros de cada vez.",
+                    "Zona de estacionamento em fila.",
+                    "Zona de paragem em fila."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "Os jovens, têm mais possibilidades de ter acidentes rodoviários?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e17.png",
+                "options": [
+                    "Sim, devido à falta de reflexos.",
+                    "Sim, a sua visão é mais reduzida.",
+                    "Sim, normalmente fazem uma avallação incorrecta dos riscos.",
+                    "Não."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Qual e a velocidade instantanea que nao devem exceder osautomóveis ligeiros de passageiros e mistos dentro das localidades?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e18.png",
+                "options": [
+                    "50 km/h, se tem reboque.",
+                    "60 km/h.",
+                    "40 km/h.",
+                    "70 km/h."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "A definição de estacionamento é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e19.png",
+                "options": [
+                    "Imobilização de um veículo que constitua paragem e que seja motivada por circunstâncias próprias da circulação.",
+                    "Imobilização de um veículo que não constitua paragem e que seja motivada por circunstâncias próprias da circulação.",
+                    "Imobilização de um veículo que não constitua paragem e que não seja motivada por circunstâncias próprias da circulação.",
+                    "Imobilização de um veículo que constitua paragem e que seja motivada por circunstâncias de excesso de tráfego."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e20.png",
+                "options": [
+                    "Automóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 80,",
+                    "Automóveis ligeiros de mercadorias com reboque dentro das localidades 50, fora das localidades 90.",
+                    "Automóveis ligeiros de mercadorias com reboque dentro das localidades 60, fora das localidades 100.",
+                    "Automóveis ligeiros de mercadorias com reboque dentro das localidades 40, fora das localidades 90"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Como o álcool afecta tarefa de conduzir?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e21.png",
+                "options": [
+                    "Reduz o campo de visão do condutor.",
+                    "Aumenta a atenção do condutor, assim que as distracções são reduzidas.",
+                    "Melhora a apreciação das velocidades.",
+                    "Melhora a apreciação das distâncias."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "O vento afecta a estabilidade do veiculo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e22.png",
+                "options": [
+                    "Particularmente quando é muito forte em túneis.",
+                    "Particularmente quando é muito forte e sopra lateralmente.",
+                    "Particularmente em veículos de caixa aberta.",
+                    "Não."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e23.png",
+                "options": [
+                    "Advertência da direcção de saida.",
+                    "Pre-advertência da direcção de saidas.",
+                    "Direcção de saída"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "A paragem e o estacionamento devem fazer-se, fora das localidades:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e24.png",
+                "options": [
+                    "Nas faixas de rodagem ou, não sendo isso possivel, o mais próximo possivel da margem esquerda, paralelamente a esta e no mesmo sentido da marcha.",
+                    "Fora das faixas de rodagem ou, não sendo isso possivel, o mais próximo possivel da margem direita, paralelamente a esta e no sentido da marcha.",
+                    "Fora das faixas de rodagem ou, não sendo isso possível, o mais próximo possivel da margem esquerda, paralelamento a esta o no mesmo sentido do marcha.",
+                    "Fora das faixas de rodagem ou, não sendo isso possivel, o mais próximo possivel da respectiva margem esquerda, paralelamente a esta e no sentido contrário ao da marcha."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "A definição de auto-estrada é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame27/e25.png",
+                "options": [
+                    "Via pública destinada a trânsito lento, com separação física de faixas de rodagem, sem cruzamentos de nivel nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal.",
+                    "Via pública destinada a trânsito rápido, sem separação física de faixas de rodagem, sem cruzamentos de nivel nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal.",
+                    "Via pública destinada a trânsito rápido, com separação fisica de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal.",
+                    "Via pública destinada a tránsito rápido, com separação física de faixas de rodagem, com cruzamentos de nível e com acesso a propriedades marginais, com acessos condicionados e sinalizada como tal."
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]
