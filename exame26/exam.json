@@ -1,0 +1,294 @@
+[
+    {
+        "id": 26,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Ao ligar as luzes, se no painel aparecer o símbolo do farol, com a cor azul, indica que:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e1.png",
+                "options": [
+                    "Estão ligadas as luzes de estrada (máximos).",
+                    "Estão ligadas as luzes de cruzamento (médios).",
+                    "Estão ligadas as luzes de presença."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Quando existe dificuldade na recolha de informação, a velocidade:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e2.png",
+                "options": [
+                    "Deve aumentar",
+                    "Deve diminuir.",
+                    "Deve manter-se, desde que as luzes do veículo estejam ligadas"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Para que aconteçam graves acidentes de trânsito, a fadiga é um dos factores que mais contribuem, sobretudo:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e3.png",
+                "options": [
+                    "Durante a manhã.",
+                    "Durante a noite.",
+                    "Durante a tarde.",
+                    "Entre as 15 e as 17 horas."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "Nesta situação, posso ultrapassar?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e4.png",
+                "options": [
+                    "Não.",
+                    "Sim, mas só aos veículos que mudam de direcção para a direita.",
+                    "Sim, já que tenho prioridade no cruzamento.",
+                    "Sim, mas só aos veículos de duas rodas."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "O condutor dum ciclomotor, pode levar o capacete mal ajustado e apertado?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e5.png",
+                "options": [
+                    "Não, porque não garante uma protecção eficaz em caso de acidente.",
+                    "Sim, sempre que seja um modelo aprovado oficialmente.",
+                    "Sim, ainda seja um modelo não aprovado oficialmente.",
+                    "Sim, já que não é obrigatório para os condutores de ciclomotores."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "O sinal, quando proibe a inversão do sentido fiarcha?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e6.png",
+                "options": [
+                    "De dia.",
+                    "De noite.",
+                    "Nos dias de chuva."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e7.png",
+                "options": [
+                    "A presença de cancela motorizada ao centro.",
+                    "A presença de entroncamento obliquo à esquerda.",
+                    "A presença de ponte móvel."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Quais são os efeitos efeitos mais comuns da fadiga ao volante?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e8.png",
+                "options": [
+                    "Sentir fome e sede o que provoca a necessidade de se deslocar com maior velocidade para chegar mais rápido ao seu destino.",
+                    "A dificuldade em manter o veículo, dentro dos limites da faixa de rodagem.",
+                    "Sentir-se enérgico podendo controlar melhor o veículo."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e9.png",
+                "options": [
+                    "Via de sentido único.",
+                    "Via de sentido único para a esquerda.",
+                    "Via de sentido único para a direita."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Que indica a marca rodoviária?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e10.png",
+                "options": [
+                    "Passagem para peões.",
+                    "Passagem para ciclistas.",
+                    "Linha de cedência de prioridade."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "A definição de berma é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e11.png",
+                "options": [
+                    "Superficie de via pública especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem;",
+                    "Superfície de via pública destinada ao trânsito de veículos e que ladeia a faixa de rodagem;",
+                    "Superfície de via pública não especialmente destinada ao trânsito de veículos e que ladela a faixa de rodagem:",
+                    "Superfície de via pública não especialmente destinada ao trânsito de automóveis e que ladeia a faixa de rodagem;"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e12.png",
+                "options": [
+                    "Area reservada para veículos de dimensões normais.",
+                    "Area reservada para veículos de dimensões anormais.",
+                    "Área reservada para veículos de pesos anormais.",
+                    "Area reservada para veículos de comprimentos anormais."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "Pode ter consequências num acidente o facto de não levar o cinto de segurança bem colocado?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e13.png",
+                "options": [
+                    "Não, se o veículo estiver equipado com airbag.",
+                    "Não, o cinto é sempre eficaz.",
+                    "Sim, porque pode provocar ferimentos graves.",
+                    "Sim, por isso o seu uso não é obrigatório."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O que indica o sinal de informação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e14.png",
+                "options": [
+                    "Area reservada para automóveis ligeiros.",
+                    "Area reservada para táxis.",
+                    "Parque de estacionamento para automóveis ligeiros de passageiros."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Posso mudar de direcção para a direita nesta situação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e15.png",
+                "options": [
+                    "Sim, desde que o assinale com a devida antecedência.",
+                    "Não, porque não é possível assegurar-se que a manobra pode ser realizada sem perigo.",
+                    "Sim, porque não há nenhuma sinalização que o impeça."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "Qual é a hierarquia entre as prescrições resultantes da sinalização?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e16.png",
+                "options": [
+                    "Prescrições resultantes dos sinais verticais e prescrições resultantes de sinalização temporária que modifique o regime normal de utilização da via",
+                    "Prescrições resultantes das marcas rodoviárias e prescrições resultantes dos sinais verticais.",
+                    "Prescrições resultantes de sinalização temporária que modifique o regime normal de utilização da via e prescrições resultantes dos sinais luminosos.",
+                    "Prescrições resultantes das marcas rodoviárias e prescrições resultantes de sinalização temporária que modifique o regime normal de utilização da via."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e17.png",
+                "options": [
+                    "Área reservada para autocarros de excursão.",
+                    "Area reservada para autocarros de transporte escolar.",
+                    "Area reservada para veículos de passeio.",
+                    "Area reservada para autocarros de turismo."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "O condutor, quando mude de direcção, tem que ceder passagem aos peões que estejam a atravessar a faixa de rodagem?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e18.png",
+                "options": [
+                    "Não.",
+                    "Sim, mas só aos que o façam pela passagem para peões.",
+                    "Sim."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Em especial à noite, com nevoeiro (cacimba), as luzes de estrada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e19.png",
+                "options": [
+                    "Devem ser usadas porque permitem uma maior visibilidade a maior distância.",
+                    "Devem ser evitadas porque permitem uma maior visibilidade a maior distância.",
+                    "Devem ser evitadas porque reflectem-se no nevoeiro impedindo a visibilidade a maior distância.",
+                    "São as mais aconselháveis para garantir alguma visibilidade."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Em condições de nevoeiro (cacimba), a velocidade segura a que circula:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e20.png",
+                "options": [
+                    "Deve ser a velocidade indicada pela sinalização vertical.",
+                    "Deve permitir que o condutor, consiga parar no espaço livre e visivel.",
+                    "Deve ser uma velocidade muito lenta.",
+                    "Deve ser inferior a 40 Km/h."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "A luz indicadora de mudança de direcção à direita accionada ao iniciar uma ultrapassagem, só deve ser desligada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e21.png",
+                "options": [
+                    "Quando termine de mudar de via de trânsito.",
+                    "Uma vez finalizada a ultrapassagem.",
+                    "Antes de mudar de via de trânsito.",
+                    "Só depois de percorrer uma distância de 500 metros. "
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Quais são os princípios gerais do socorrismo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e22.png",
+                "options": [
+                    "Prevenir, alertar e socorrer.",
+                    "Prevenir, socorrer e evacuar.",
+                    "Prevenir, observar e socorrer."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Num acidente há feridos muito graves. Que deve fazer se não sabe como os ajudar?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e23.png",
+                "options": [
+                    "Abandonar o local e não fazer nada.",
+                    "Não lhes tocar e ligar ao 112.",
+                    "Retirar rapidamente os feridos do veículo e levá-los para o hospital mais próximo."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "A definição de passeio é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e24.png",
+                "options": [
+                    "Parte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de veículos.",
+                    "Parte que ladeia a faixa de rodagem, destinada ao estacionamento de veículos.",
+                    "Parte que ladeia a faixa de rodagem, destinada exclusivamente ao trânsito de peões.",
+                    "Parte da faixa de rodagem, destinada exclusivamente ao trânsito de peões."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Que entende-se por dever?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame26/e25.png",
+                "options": [
+                    "A obrigação de avançar rapidamente, logo que o sinal verde do semáforo assim o permita.",
+                    "A intenção de iniciar a marcha sem a devida sinalização.",
+                    "A obrigação moral de proceder de acordo com as normas e a consciência."
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]
