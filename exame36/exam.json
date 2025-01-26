@@ -1,0 +1,299 @@
+[
+    {
+        "id": 36,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Em caso de avaria, os sinais de pre-sinalização de perigo devem colocar-se por forma a ficar bem visíveis a uma distância",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e1.png",
+                "options": [
+                    "Pelo menos 50 metros",
+                    "Pelo menos 25 metros",
+                    "Pelo menos 100 metros",
+                    "10 metros"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "O agente de trânsito que aparece na fotografia, manda:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e2.png",
+                "options": [
+                    "Avançar o tráfego que venha da retaguarda",
+                    "Para o tráfego que venha da esquerda",
+                    "Avançar o tráfego que venha da esquerda"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e3.png",
+                "options": [
+                    "Via temporariamente interrompida",
+                    "Via temporariamente interrompida, mas pode seguir em frente",
+                    "Via definitivamente interrompida",
+                    "Via temporariamente interrompida, só durarante a noite"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "O sinal luminoso com a ste verde indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e4.png",
+                "options": [
+                    "Acesso ou passagem interdito",
+                    "Acesso ou passagem autorizado",
+                    "Acesso ou passagem condicionado"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Os automóveis ligeiros de passageiros, devem estar equipados com sinais de pré-sinalização de perigo ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e5.png",
+                "options": [
+                    "Sim, um colete reflector e um triângulo de pré-sinalização de perigo",
+                    "Não",
+                    "Sim, dois triângulos de pré-sinalização de perigo e um colete reflector",
+                    "Sim, apenas são obrigatórios dois triangulos de pré-sinalização de perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "A condução urbana, caracteriza-se essencialmente",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e6.png",
+                "options": [
+                    "Pela abundância de sinais luminosos",
+                    "Por uma grande intensidade de trânsito",
+                    "Pela ausência de regras de trânsito",
+                    "Pela pouca presença de peões"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Num veículo equipado com motor Diesel em aceleração, a libertação de muito fumo negro pelo tubo de escape, significa:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e7.png",
+                "options": [
+                    "Óptima qualidade do combustível",
+                    "Necessidade de regulação de bomba injectora",
+                    "Que o veículo está a queimar muito óleo",
+                    "Que o veículo acelara bem"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 8,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e8.png",
+                "options": [
+                    "Entrocamento agudo da esquerda",
+                    "Entrocamento convergente para a esquerda",
+                    "Entrocamento divergente da esquerda",
+                    "Entrocamento agudo da direita"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e9.png",
+                "options": [
+                    "Travessia de peões",
+                    "Travessia de idosos",
+                    "Travessia de crianças",
+                    "Passagem de peões"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "Qual dos veículos tem prioridade de passagem nesta situação?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e10.png",
+                "options": [
+                    "O veículo vermelho",
+                    "O veículo amarelo",
+                    "O primeiro que chegar ao cruzamento"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e11.png",
+                "options": [
+                    "Sinalização luminosa",
+                    "Passagem de nível",
+                    "Sinalização luminosa em manutenção"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "Que veículo deve retroceder para dar passagem ao outro, numa passagem estreita sem sinalização onde não seja possível efectuar o cruzamento?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e12.png",
+                "options": [
+                    "O veículo mais pesado",
+                    "O veículo com maior largura",
+                    "O veículo que está mais próximo do local em que o cruzamento seja possível",
+                    "O veículo que desce se for numa via de inclinação acentuada"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Quando os peões transitem na faixa de rodagem, devem fazê-lo...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e13.png",
+                "options": [
+                    "A par, quando transitem desde o anoitecer ao amanhecer",
+                    "Numa única fila, sempre que as condições de visibilidade ou intensidade do trânsito o aconselhem",
+                    "Pela esquerda da faixa de rodagem, em relação ao seu sentido de marcha",
+                    "A par, quando transitem em condições de visibilidade insuficiente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "Os condutores com pouco tempo de condução (inexperientes):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e14.png",
+                "options": [
+                    "Têm capacidades menos eficientes na recolha de informações",
+                    "Têm capacidades mais eficientes na recolha de informações",
+                    "Têm capacidades mais acertadas na recolha de informações",
+                    "As capacidades na recolha de informação não tem relação com a experiência, sim com a visão"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Para praticar uma condução defensiva a antecipação é um comportamento importante",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e15.png",
+                "options": [
+                    "Errado",
+                    "Só nas passagens para peões",
+                    "Certo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 16,
+                "title": "Os automóveis ligeiros de passageiros e mistos sem reboque, fora das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e16.png",
+                "options": [
+                    "80 km/h",
+                    "120 km/h",
+                    "100 km/h",
+                    "140 km/h"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "A condução defensiva deve ser mais pro-activa, isto significa que:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e17.png",
+                "options": [
+                    "Deve advinhar as situações de perigo e concentrar-se em aproximar-se o mais possível da berma para se proteger",
+                    "Deve estar atento aos ruídos estranhos do veículos no trânsito e sinalizar",
+                    "Deve prever as situações antes de acontecerem e mesmo que não aconteçam prever a probabilidade de  que aconteçam",
+                    "Deve ser mais rápida e activa para sair rapidamente das zonas de perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e18.png",
+                "options": [
+                    "Paragem obrigatória",
+                    "Paragem obrigatória em três vias",
+                    "Paragem obrigatória a três metros"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 19,
+                "title": "Nos dias quentes, é recomendável",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e19.png",
+                "options": [
+                    "Efectuar mais descansos durante uma viagem, porque a fadiga e o sono aparecem mais facilmente",
+                    "Fazer menos descansos durante a viagem, para chegar ao destino mais rapidamente possível",
+                    "Evitar conduzir com o ar condicionado ligado",
+                    "Evitar tomar bebidas como água ou sumos naturais"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 20,
+                "title": "O sinal de cor amarela e preta, indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e20.png",
+                "options": [
+                    "Barricada",
+                    "Baia indicadora de separado físico",
+                    "Baía limitadora de altura"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Que comunica o condutor aos outros utentes da via?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e21.png",
+                "options": [
+                    "Que vai reduzir a velocidade",
+                    "Que vai voltar para o lado esquerdo do volante",
+                    "Que vai voltar para o lado direito do volante"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Quando o condutor tem uma distração...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e22.png",
+                "options": [
+                    "Aumenta insconcientemente a velocidade do veículo",
+                    "Deve avisar com as luzes de perigo",
+                    "Demora mais tempo em reagir",
+                    "Demora menos tempo em obter as informações necessárias para conduzir com segurança"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e23.png",
+                "options": [
+                    "Pista obrigatória para veículos de tracção manual",
+                    "Pista obrigatória para peões e velocípedes",
+                    "Pista obrigatória para peões",
+                    "Trânstio proibido a velociípedes e peões"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e24.png",
+                "options": [
+                    "Fim de duas vias",
+                    "Fim de via à esquerda",
+                    "Entrocamento agudo da direita",
+                    "Fimda via à direita"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "A condução sob influência de álcool provoca no condutor",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame36/e25.png",
+                "options": [
+                    "A diminuição do tempo de reacção",
+                    "O aumento de tempo de reacção",
+                    "Não afecta o processo de condução",
+                    "O auemento dos reflexos"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "id": 35,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e1.png",
+                "options": [
+                    "Área reservada para motociclos",
+                    "Zona reservada para motociclos",
+                    "Estrada reservada para motociclos",
+                    "Troço reservado para motociclos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Sempre que saia de um caminho particular, o condutor deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e2.png",
+                "options": [
+                    "Ceder a passagem apenas aos veículos à motor",
+                    "Ceder a passagem a todos e quaisquer veículos",
+                    "Avançar porque tem prioridade"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "A luz de cruzamento (médios), destina-se a iluminar a via para frente do veículo numa distância ate:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e3.png",
+                "options": [
+                    "40 metros",
+                    "30 metros",
+                    " 50 metros",
+                    "60 metros"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "Quando carregado, a distância de paragem de um veículo em circulação",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e4.png",
+                "options": [
+                    "Aumenta, somente nas descidas",
+                    "Dominui, excepto nas descidas",
+                    "Aumenta",
+                    "Quando a carga está bem acondicionado não se altera"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Que deve fazer o condutor perante a marca rodoviária de cor branca ?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e5.png",
+                "options": [
+                    "Manter-se na via de trânsito que el delimta, só podendo ser pisada ou transposta para efectuar manobras",
+                    "Manter-se na via de trânsito que ela delimta, não podendo ser pisado ou transposta",
+                    "Manter-se na via de trânsito que ela delimita, devendo abrandar a marcha"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e6.png",
+                "options": [
+                    "Queda de pedras à esquerda",
+                    "Queda de pedras à direita",
+                    "Estrada com burracos na esquerda",
+                    "Estrada com buracos na direita"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "O ordenamento do trânsito em todas as estradas, compete...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e7.png",
+                "options": [
+                    "Aos Corpos Administrativos ou Conselhos Municipais",
+                    "À polícia Municipal",
+                    "Ao INATTER",
+                    "À Polícia de Trânsito"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Os condutores de veículos ou animais que pretendem mudar de direcção para à direita, devem:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e8.png",
+                "options": [
+                    "Aproximar-se com a devida antecedência da berma da via e efectuar a manobra de modo a dar a esquerda à parte central do cruzmaneto ou entrocamento",
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a esquerda à parte central do cruzamento ou entrocamento",
+                    "Aproximar-se com a devida antecedência do eixo da via e efectuar a manobra de modo a dar a direita à parte central de cruzamento ou entrocamento",
+                    "Aproximar-se com a devida antecedêcnai da berma da via e efectuar a manobra de modo a dar a direita à parte central do cruzamento ou entrocamento"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "Com nevoeiro (cacimba), a distância de segurança aplicável:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e9.png",
+                "options": [
+                    "É a mesma que em condições de boa visibilidade",
+                    "É a indicada pela sinalização vertical",
+                    "Não é a mesma que em condições de boa visibilidade",
+                    "É meno para permitir ver o carro que segue à sua frente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Os sistemas de segurança activa de um veículo...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e10.png",
+                "options": [
+                    "Ajudam o condutor a reduzir a possibilidade de ter um acidente",
+                    "Minimizam as lesões em caso de acidente",
+                    "Eliminam a possibilidade de sofrer lesões em caso de acidente"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "Os condutores não podem",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e11.png",
+                "options": [
+                    "Iniciar ou retomar a marcha sem buzinar e adoptarem as precauções necessárias para evitar qualquer acidente",
+                    "Iniciar ou retomar a marcha sem ligar as luzes de presença e adoptarem as precauções necessárias para evitar qualquer acidente",
+                    "Iniciar ou retomar a marcha sem assinalar com a necessária antecedência a sua intenção sem adoptarem as precauções necessárias para evitar qualquer acidente",
+                    "Inciar ou retomar a marcha sem ligar as luzes de STOP e adoptarem as precauções necessárias para evitar qualquer acidente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e12.png",
+                "options": [
+                    "Entrocamento transversal à esquerda",
+                    "Entrocamento em forma de y ou bifuração",
+                    "Entrocamento colateral à esquerda",
+                    "Estrada convergente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e13.png",
+                "options": [
+                    "Trânsito proibido para todos os veículos automóveis",
+                    "Proibição de ultrapassagem para automóveis ligeiros",
+                    "Proibição de ultrapassagem para motociclos simples"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "As ultrapassagens devem fazer-se",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e14.png",
+                "options": [
+                    "Pela direita dos veículos ou animais",
+                    "Pela esquerda dos veículos ou animais",
+                    "Pela direita ou pela esquerda, se houver espaço suficente na berma",
+                    "Nas curvas de visibilidade reduzida"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "É necessário verificar com frequência o sistema de iluminação",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e15.png",
+                "options": [
+                    "Sim, mudando todos os fusíveis",
+                    "Sim, para se assegurar que todas as luzes funcionam e que os faróis estão bem regulados",
+                    "Não, porque se deve fazer unicamente numa oficina",
+                    "Não, é suficente a revisão na inspecção periódica obrigatória"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "Durante as ultrapassagens, a força do ar provocada pelos veículos pesados:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e16.png",
+                "options": [
+                    "Afecta em especial os veículos pesados",
+                    "Afecta igualmente ambos os veículos, sobretudo no início da manobra",
+                    "Afecta em especial os veículos ligeiros e veículos de 2 rodas",
+                    "Não tem influência para outros condutores"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "O que indica a marca redoviário",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e17.png",
+                "options": [
+                    "Cedência de prioridade",
+                    "Aproximação de passagem de nível",
+                    "Faixa de sentido reversível"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Para não causar perigo e por um causa a segurança das pessoas e das coisas, os condutores devem",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e18.png",
+                "options": [
+                    "Circular nos limites máximos de velocidade das estradas",
+                    "Circular abaixo dos limites mínimos de velocidade",
+                    "Regular a velocidade atentendo às características do veículo, às condições da via e ao estado do condutor",
+                    "Ficar em ponto morto nas descidas muito inclinadas"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Se o condutor que segue à minha frente assinala a manobra de mudança de direcção para a direita, posso ultrapassar>",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e19.png",
+                "options": [
+                    "Sim, pela direita",
+                    "Não",
+                    "Sim, pela esquerda, certificando-se que o pode fazer sem perigo de acidente",
+                    "Sim, pela direita ou pela esquerda, sempre que o veículo não esteja em movimento"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e20.png",
+                "options": [
+                    "Curva à direita e contracurva à direita",
+                    "Curva à direita e contracurva",
+                    "Curva à esquerda e contracurva",
+                    "Curva à esquerda e contracurva à direita"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "O sinal indica:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e21.png",
+                "options": [
+                    "Curva à direita",
+                    "Inclinação à direita",
+                    "Curva à esquerda",
+                    "Sentido obrigatório para a direita"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "A definicação de parque de estacionamento é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e22.png",
+                "options": [
+                    "Local exclusivamente destinado ao estacionamento dos veículos",
+                    "Local exclusivamente destinado ao descanso dos condutores",
+                    "Local exclusivamente destinado às cargas e descargas dos veículos",
+                    "Local exclusivamente destinado a manutenção e reparação dos veículos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Onde é proibido inverter o sentido de marcha?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e23.png",
+                "options": [
+                    "Nas rotundas",
+                    "Nos cruzamentos ou entrocamentos de visibildiade reduzida",
+                    "Fora das localidades",
+                    "Só quando haja grande intensidade de tráfego"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "É necessário regular a ajustar o encosto de cabeça para altura dos ocupantes?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e24.png",
+                "options": [
+                    "Não é necessario, porque é apenas um elemento de conforto",
+                    "Sim, mas só nos bancos de frente",
+                    "Sim, porque pode evitar lesões na zona do pescoço",
+                    "Não, se o veículo tiver cintos de segurança"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "É proibido estacionar",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame35/e25.png",
+                "options": [
+                    "De noite, nas faixas de rodagem das localidades",
+                    "A 50 metros das passagens de nível",
+                    "Em cima dos passeios",
+                    "No lado da faixa de rodagem em que esteja uma linha continua de cor branca"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    }
+]
