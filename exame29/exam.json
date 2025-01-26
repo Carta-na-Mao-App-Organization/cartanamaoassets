@@ -1,0 +1,301 @@
+[
+    {
+        "id": 29,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame28/e2.png",
+                "options": [
+                    "Zona onde só podem passar três carros de cada vez.",
+                    "Congestionamento de tráfego.",
+                    "Zona de estacionamento em fila.",
+                    "Zona de paragem em fila."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "A distância de segurança, se a condutor que transita à minha frente diminuir a Velocidade:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e25.png",
+                "options": [
+                    "Aumenta.",
+                    "Diminui.",
+                    "Não se altera."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "O condutor determina qual é a respasta motora a executar, em que processo da tarefa da condução?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e3.png",
+                "options": [
+                    "Decisão.",
+                    "Antecipação.",
+                    "Previsão.",
+                    "Recolha"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "O vento alecia a estabilidade do veicula:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e4.png",
+                "options": [
+                    "Particularmente quando é muito forte em túneis.",
+                    "Particularmente em veiculos de caixa aberta.",
+                    "Particularmente quanto é muito forte e sopa lateralmente.",
+                    "Não."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Que veículos consideram-se prioritarias?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e5.png",
+                "options": [
+                    "As ambuláncias que transportam teridos.",
+                    "As comitivas governamentais.",
+                    "Os que transitam em missão urgente de socorro e comitivas governamentals, assinalando adequadamente a sua marcha."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e6.png",
+                "options": [
+                    "Paragem obrigalória.",
+                    "Trânsito proibido a veículos com comprimento superior a 60 metros.",
+                    "Paragem obrigatória a 60 metros."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "Parar ou estacionar, e proibido:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e7.png",
+                "options": [
+                    "A menos de 3 m das passagens assinaladas para a travessia de peões e velocipedes.",
+                    "A menos de 10 m das passagens assinaladas para a travessia de pedes e velocipedes.",
+                    "A menos de 15 m das passagens assinaladas para a travessia de peões e velocipedes.",
+                    "A menos de 5 m das passagens assinaladas para a travessia de peões e velocipedes."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 8,
+                "title": "O que indice o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e8.png",
+                "options": [
+                    "Sinalização luminosa.",
+                    "Passagem de nivel.",
+                    "Sinalização tuminose en manutenção."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "A distância percorida desde que o condutor identifica um perigo até que o veículo pare completamente.",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e9.png",
+                "options": [
+                    "Depende apenas do estado dos travões.",
+                    "Depende apenas do estado do condutor.",
+                    "É maior quanto malor tor a velocidado.",
+                    "So varia se o veiculo ou a via estão em mau estado."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "O uso do cinto de segurança nos assentos traseiros.",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e10.png",
+                "options": [
+                    "So são obrigatórios fora das localidades.",
+                    "São da exclusiva responsabilidade dos ocupantes, já que num acidente seriam os únicos afectados.",
+                    "Não e obrigatorio, mas e aconselhavel.",
+                    "Podem salvar a vida aos seus ocupantes e impedem que eles causem lesões graves aos outros passageiros."
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 11,
+                "title": "O significado deste sinal é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e11.png",
+                "options": [
+                    "Terreno com pedras a esquerda.",
+                    "Terreno falso a esquerda.",
+                    "Zona de passagem pela direita.",
+                    "Zona de passagem pela esquerda."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Nas estradas nacionais, a suspensão do trânsito deve ser solicitada:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e12.png",
+                "options": [
+                    "A ANE e, nas estradas locais, aos consolhos municipais.",
+                    "Ao INATTER e nas estradas locais, aos conselhos municipais.",
+                    "A apolicia de segurança publica e nas estradas locais, aos conselhos municipais.",
+                    "Ao Ministério dos transportes e nas estradas locais, aos conselhos municipais."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 13,
+                "title": "Como pode ser definido o stress?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e13.png",
+                "options": [
+                    "Acalmia mental diante de pressões ou exigências que ultrapassem os limites das suas próprias capacidades.",
+                    "Indiferença perante pressões ou exigências que ullrapassem os limites das suas próprias capacidades.",
+                    "Tensão mental diante do pressões ou exigências que ultrapassem os limites das suas próprias capacidades"                
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O significado destes sinais é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e14.png",
+                "options": [
+                    "Area reservada pora taxis, Pista reservada para velocipedes do lado esquerdo, Area reservada para veiculos de deficientes.",
+                    "Area reservada para táxis; Pista reservada para velocipedes do lado direito: Area reservada para veiculos de deficientes.",
+                    "Area reservada para táxis; Pista reservada para velocípedes do lado esquerdo; Pista reservada para veiculos de deficientes.",
+                    "Area reservada para transporte coletivo; Pista reservada para velocipedes do lada esquerdo; Area reservada para veiculos de deficientes."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Que veículos podem conduzir as pessoas que só possuam a carta de condução da categoria B?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e15.png",
+                "options": [
+                    "Todos.",
+                    "Automoveis ligeiros.",
+                    "Automóveis pesados de mercadorias ou de passageiros.",
+                    "Motociclos com ou sem carro."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "A distância de segurança entre veículos em marcha depende:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e16.png",
+                "options": [
+                    "Apenas da pressa do condutor.",
+                    "De que circulem em autoestrada, podendo ser mais pequena neste caso.",
+                    "Sempre da velocidade.",
+                    "Da capacidade de travagem do veículo."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "A definição de cruzamento é:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e17.png",
+                "options": [
+                    "Zona de intersecção de vias privadas ao mesmo nivel.",
+                    "Zona de intersecção de vias privadas ao nivel superior.",
+                    "Zona de intersecção de vias públicas ao mesmo nivel.",
+                    "Zona de intersecção de vias privadas ao nivel inferior."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Quem tem prioridade de passagem nesta intersecção?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e18.png",
+                "options": [
+                    "Os condutores que se apresentem pela esquerda.",
+                    "Todos os condutores que circulem pela via transversal.",
+                    "Os condutores que circulem pela via de maior largura.",
+                    "Os condutores que se apresentem pela direita"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 19,
+                "title": "É perigoso utilizar o telefone móvel durante a condução?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e19.png",
+                "options": [
+                    "Não, ja que não afecta a condução.",
+                    "Sim, porque reduz a atenção necessária para conduzir com segurança.",
+                    "Não, quando a conversa não durar muito tempo.",
+                    "Sim, mas só quando se utilizar um aparelho mãos livres."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "Um condutor que expressa o descontentamento através de gestos ou palavras agressivas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e20.png",
+                "options": [
+                    "Manifesta agressividado o falta de civismo.",
+                    "Está apenas, e bem, a demonstrar o seu descontentamento com o comportamento das outros",
+                    "Está a contribuir para mais e melhor cidadania no transito.",
+                    "Esta a exercer um direito que lhe assiste perante a ignorância dos outros condutores."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 21,
+                "title": "Quando existe cruzamento de veículos?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e21.png",
+                "options": [
+                    "Os condutores de dols veiculos que transitem na mesma faixa de rodagem e no mesmo sentido, o que val à frente realize uma ultrapassagem.",
+                    "Os condutores de dois veículos que transitem na mesma via e no mesmo sentido passem um pelo outro.",
+                    "Os condutores de dois veículos que transitem na mesma estrada e no mesmo sentido passem um pelo outro.",
+                    "Os condutores de doisveiculos,que tansitemnamesma via e em sentidos opostos.passem um pelo outro em simultaneo;"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e22.png",
+                "options": [
+                    "Tránsito proibido a peões, animais e veículos automóveis.",
+                    "Transito proibido a animais e veiculos nao automoveis.",
+                    "Tránsito proibido a peões, animais e veículos não automóveis."
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "Quais são os efeitos efeitos mais comuns da fadiga ao volante?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e23.png",
+                "options": [
+                    "A dificuldado em manter o veículo, dentro dos limites da faia de rodagom.",
+                    "Sentir fome e sede o que provoca a necessidade de se deslocar com maior velocidade para chegar mais rápido ao seu destino.",
+                    "Sentir-se enérgico podendo controlar melhor o veiculo."
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 24,
+                "title": "Os condutores não podem exceder as seguintes velocidades instântaneas (em quilametros/hora):",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e24.png",
+                "options": [
+                    "Automóveis pesados de passageiros, dentro das localidades 50, fora das localidades 100.",
+                    "Automoveis pesados de passageiros dento das localidedes 60, fora das localidsdes 100.",
+                    "Automoveis pesados de passageros dentro das lacalidades 60, lora das localidades 120.",
+                    "Automóveis pesados de passageiros dentro das localidades 50, fora das localidades 120."
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 25,
+                "title": "A ingestao de drogas:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame29/e25.png",
+                "options": [
+                    "Diminui as capacidades do cordutor, alterando os reflexos e a coordenação de movimentos.",
+                    "Aumenta as capacidades do condutor, melhorando os reflexos e a coordenação de movimentos.",
+                    "Afecta as capacidades do condutor, melhorando os reflexos e a coordenação de movimentos.",
+                    "Em determinadas condições ajudam o condutor a estar mais atento."
+                ],
+
+                "correctOptionIndex": 0
+            }
+        ]
+    }
+]
